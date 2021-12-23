@@ -1,0 +1,64 @@
+version: '3.7'
+
+services:
+  template_injection:
+    container_name: liferay7.3
+    image: liferay/portal:7.3.0-ga1
+    ports:
+      - "9030:8080"
+    restart: always
+
+  iuresearch_db:
+    image: mysql:8.0
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: Haiclover99
+      MYSQL_DATABASE: perfume
+      MYSQL_USER: perfume
+      MYSQL_PASSWORD: Haiclover99
+    networks:
+      - iuresearch_backend
+
+  iuresearch_server:
+    build:
+      context: iu_research/backend
+      dockerfile: Dockerfile
+    ports:
+      - "8080:8081"
+    restart: always
+    depends_on: 
+      - iuresearch_db
+    environment:
+      SPRING_DATASOURCE_URL: jdbc:mysql://iuresearch_db:3306/perfume?createDatabaseIfNotExist=true&useSSL=false&allowPublicKeyRetrieval=true
+      SPRING_DATASOURCE_USERNAME: root
+      SPRING_DATASOURCE_PASSWORD: Haiclover99
+    networks:
+      - iuresearch_backend
+      - iuresearch_frontend
+
+  iuresearch_client:
+    build:
+      context: iu_research/frontend
+      dockerfile: Dockerfile
+      args:
+        REACT_APP_API_BASE_URL: http://localhost:8080/
+    ports:
+      - "3000:80"
+    restart: always
+    depends_on:
+      - iuresearch_server
+    networks:
+      - iuresearch_backend
+      - iuresearch_frontend
+
+  deserialization_resteasy:
+    build:
+      context: RESTEasyDeser
+      dockerfile: Dockerfile
+    ports:
+      - "9020:9020"
+    restart: always
+
+networks:
+  iuresearch_backend:
+  iuresearch_frontend:

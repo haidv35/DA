@@ -1,0 +1,58 @@
+version: '3.7'
+
+# Define services
+services:
+  # App backend service
+  app-server:
+    # Configuration for building the docker image for the backend service
+    build:
+      context: backend
+      dockerfile: Dockerfile
+    ports:
+      - "8080:8081"
+    restart: always
+    depends_on: 
+      - db # This service depends on mysql. Start that first.
+    environment: # Pass environment variables to the service
+      SPRING_DATASOURCE_URL: jdbc:mysql://db:3306/perfume?createDatabaseIfNotExist=true&useSSL=false&allowPublicKeyRetrieval=true
+      SPRING_DATASOURCE_USERNAME: root
+      SPRING_DATASOURCE_PASSWORD: Haiclover99
+    networks:
+      - backend
+      - frontend
+
+  # Frontend Service 
+  app-client:
+    build:
+      context: frontend
+      dockerfile: Dockerfile
+      args:
+        REACT_APP_API_BASE_URL: http://localhost:8080/
+    ports:
+      - "3000:80"
+    restart: always
+    depends_on:
+      - app-server
+    networks:
+      - backend
+      - frontend
+   
+  # Database Service (Mysql)
+  db:
+    image: mysql:latest
+    ports:
+      - "33306:3306"
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: Haiclover99
+      MYSQL_DATABASE: perfume
+      MYSQL_USER: perfume
+      MYSQL_PASSWORD: Haiclover99
+    networks:
+      - backend
+      - frontend
+
+# Networks to be created to facilitate communication between containers
+networks:
+  backend:
+  frontend:   

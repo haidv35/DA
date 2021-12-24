@@ -18,7 +18,7 @@ public class MainResource {
     @Path("/genPassword")
     @Produces(MediaType.APPLICATION_JSON)
     @Consumes({"*/*"})
-    public String doConcat(Pair pair) {
+    public String genPassword(Pair pair) {
         HashMap<String, String> result = new HashMap<String, String>();
         String newPasswd = generateStrongPassword(pair.getP1(), Integer.parseInt(pair.getP2()));
         return newPasswd;

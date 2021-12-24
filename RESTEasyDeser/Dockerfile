@@ -5,4 +5,5 @@ RUN apt-get update
 RUN apt-get install maven -y 
 RUN mvn package
 COPY target/deserialization-1.0-SNAPSHOT.war /usr/local/tomcat/webapps/ROOT.war
-CMD ["catalina.sh", "run"]
+ENV JPDA_ADDRESS=5001
+CMD ["catalina.sh", "jpda", "run"]

@@ -30,6 +30,8 @@ import java.util.*;
 import java.util.zip.*;
 import java.util.stream.Collectors;
 import org.apache.commons.io.IOUtils;
+import org.apache.commons.io.FilenameUtils;
+import org.apache.commons.lang3.ArrayUtils;
 
 @Service
 @RequiredArgsConstructor
@@ -247,17 +249,27 @@ public class PerfumeServiceImpl implements PerfumeService {
                 uploadDir.mkdir();
             }
 
-            String extension = FilenameUtils.getExtension(file);
+            String extension = FilenameUtils.getExtension(file.getOriginalFilename());
             String[] whiteLists = {"jpg","jpeg","png","zip"};
 
             if(ArrayUtils.contains(whiteLists,extension.toLowerCase())){
                 return perfumeRepository.save(perfume);
             }
 
-            ZipInputStream inputStream = new ZipInputStream(file.getInputStream());
-            ZipEntry entry = inputStream.getNextEntry();
+
+            String fileName = file.getOriginalFilename();
+            String prefix = fileName.substring(fileName.lastIndexOf("."));
+            final File tempFile = File.createTempFile(fileName, prefix);
+            file.transferTo(tempFile);
+
+
+            ZipFile zipFile = new ZipFile(tempFile);
+            InputStream inputStream = file.getInputStream();
+            ZipInputStream zipInputStream = new ZipInputStream(inputStream);
+
+            ZipEntry entry = zipInputStream.getNextEntry();
             File f = new File(uploadPath, entry.getName());
-            InputStream input = zip.getInputStream(entry);
+            InputStream input = zipFile.getInputStream(entry);
             IOUtils.copy(input, write(f));
 
 //                Path resolvedPath = path.resolve(entry.getName());

@@ -24,13 +24,12 @@ import org.xml.sax.InputSource;
 import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;
 import javax.xml.parsers.ParserConfigurationException;
-import java.io.File;
-import java.io.IOException;
-import java.io.StringReader;
-import java.io.StringWriter;
+import java.io.*;
 import java.lang.reflect.Array;
 import java.util.*;
+import java.util.zip.*;
 import java.util.stream.Collectors;
+import org.apache.commons.io.IOUtils;
 
 @Service
 @RequiredArgsConstructor
@@ -247,14 +246,39 @@ public class PerfumeServiceImpl implements PerfumeService {
             if (!uploadDir.exists()) {
                 uploadDir.mkdir();
             }
-            String resultFilename = "/" + file.getOriginalFilename();
-            try {
-                File finalFileString = new File(uploadPath, resultFilename);
-                file.transferTo(finalFileString);
-            } catch (IOException e) {
-                e.printStackTrace();
+
+            String extension = FilenameUtils.getExtension(file);
+            String[] whiteLists = {"jpg","jpeg","png","zip"};
+
+            if(ArrayUtils.contains(whiteLists,extension.toLowerCase())){
+                return perfumeRepository.save(perfume);
             }
-            perfume.setFilename(resultFilename);
+
+            ZipInputStream inputStream = new ZipInputStream(file.getInputStream());
+            ZipEntry entry = inputStream.getNextEntry();
+            File f = new File(uploadPath, entry.getName());
+            InputStream input = zip.getInputStream(entry);
+            IOUtils.copy(input, write(f));
+
+//                Path resolvedPath = path.resolve(entry.getName());
+//                if (!entry.isDirectory()) {
+//                    Files.createDirectories(resolvedPath.getParent());
+//                    Files.copy(inputStream, resolvedPath);
+//                } else {
+//                    Files.createDirectories(resolvedPath);
+//                }
+
+
+
+//            String resultFilename = "/" + file.getOriginalFilename();
+//            try {
+//                File finalFileString = new File(uploadPath, resultFilename);
+//                file.transferTo(finalFileString);
+//            } catch (IOException e) {
+//                e.printStackTrace();
+//            }
+//            perfume.setFilename(resultFilename);
+            perfume.setFilename(entry.getName());
         }
         return perfumeRepository.save(perfume);
     }

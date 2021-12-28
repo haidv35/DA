@@ -71,7 +71,7 @@ const Product: FC<RouteComponentProps<{ id: string }>> = ({match}) => {
 
     const addReview = (event: FormEvent<HTMLFormElement>): void => {
         event.preventDefault();
-        const api = 'http://localhost:8080/api/v1/users/review/checkUser';
+        const api = 'http://localhost:8081/api/v1/users/review/isAuthorReviewExists';
         const review: ReviewData = {perfumeId: match.params.id as string, author, message, rating, api}
         dispatch(addReviewToPerfume(review));
     };

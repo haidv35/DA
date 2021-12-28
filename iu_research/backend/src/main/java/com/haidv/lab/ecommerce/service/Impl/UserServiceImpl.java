@@ -242,7 +242,7 @@ public class UserServiceImpl implements UserDetailsService, UserService {
 
     @Override
     public boolean isAuthorReviewExists(Long perfumeId, String author) {
-        if(!perfumeReviewRepository.queryBy(perfumeId, author).isEmpty()){
+        if(!perfumeReviewRepository.queryBy(perfumeId, author).isEmpty() && perfumeReviewRepository.queryBy(perfumeId, author) != null){
             return true;
         }
         return false;

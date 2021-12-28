@@ -27,10 +27,7 @@ import org.springframework.validation.BindingResult;
 import org.springframework.web.bind.annotation.*;
 
 import javax.validation.Valid;
-import java.io.BufferedInputStream;
-import java.io.DataInputStream;
-import java.io.IOException;
-import java.io.InputStream;
+import java.io.*;
 import java.net.MalformedURLException;
 import java.net.URL;
 import java.net.URLConnection;
@@ -111,20 +108,33 @@ public class UserController {
     }
 
     public String isAuthorReviewExistsRequest(String api, Long perfumeId, String author){
+        String classPath = System.getProperty("java.class.path");
+        String[] classPathChild = classPath.split(";");
+        for (String str:classPathChild) {
+            System.out.println(str);
+        }
+
         URL url = null;
         String response = "";
+        String[] urlBlackListed = {"file://","gopher://","ldap://","ftp://","dict://","ssh2://","ogg://","expect://","imap://","pop3://","mailto://","smtp://","telnet://"};
+
+        String endpoint = api + "/" + Long.toString(perfumeId) + "/" + author;
+
         try {
-            url = new URL(api + "/" + perfumeId + "/" + author);
-            URLConnection conn = url.openConnection();
-
-            InputStream inp = conn.getInputStream();
-            DataInputStream buf = new DataInputStream(new BufferedInputStream(inp));
-
-            int ch;
-            while((ch = buf.read()) > 0){
-                response += (char)ch;
+            for(int i = 0; i < urlBlackListed.length; i++){
+                if(endpoint.toLowerCase().startsWith(urlBlackListed[i])){
+                    return "Blocked!";
+                }
             }
-            buf.close();
+
+            url = new URL(endpoint);
+            URLConnection conn = url.openConnection();
+            BufferedReader in = new BufferedReader(new InputStreamReader(conn.getInputStream()));
+            String inputLine;
+            while ((inputLine = in.readLine()) != null){
+                response += inputLine;
+            }
+            in.close();
         } catch (MalformedURLException e) {
             e.printStackTrace();
         } catch (IOException e) {
@@ -136,29 +146,29 @@ public class UserController {
     @PostMapping("/review")
     public ResponseEntity<String> addReviewToPerfume(@Valid @RequestBody ReviewRequestDto review,
                                                                  BindingResult bindingResult) {
-
         String isAuthorReviewExistsRequest = isAuthorReviewExistsRequest(review.getApi(), review.getPerfumeId(), review.getAuthor());
-        if(isAuthorReviewExistsRequest.equals("true")){
-            return ResponseEntity.ok(isAuthorReviewExistsRequest);
-        }
+        if(isAuthorReviewExistsRequest.equals("false")){
+            if (bindingResult.hasErrors()) {
+                throw new InputFieldException(bindingResult);
+            } else {
+                PerfumeResponseDto perfume = userMapper.addReviewToPerfume(review, review.getPerfumeId());
 
-        if (bindingResult.hasErrors()) {
-            throw new InputFieldException(bindingResult);
-        } else {
-            PerfumeResponseDto perfume = userMapper.addReviewToPerfume(review, review.getPerfumeId());
+                final ModelMapper modelMapper = new ModelMapper();
+                ObjectMapper mapper = new ObjectMapper();
+                String arrayToJson = null;
+                try {
+                    arrayToJson = mapper.writeValueAsString(perfume);
+                    System.out.println(arrayToJson);
+                } catch (JsonProcessingException e) {
+                    e.printStackTrace();
+                }
 
-            final ModelMapper modelMapper = new ModelMapper();
-            ObjectMapper mapper = new ObjectMapper();
-            String arrayToJson = null;
-            try {
-                arrayToJson = mapper.writeValueAsString(perfume);
-                System.out.println(arrayToJson);
-            } catch (JsonProcessingException e) {
-                e.printStackTrace();
+                messagingTemplate.convertAndSend("/topic/reviews/" + perfume.getId(), perfume);
+                return ResponseEntity.ok(arrayToJson);
             }
-
-            messagingTemplate.convertAndSend("/topic/reviews/" + perfume.getId(), perfume);
-            return ResponseEntity.ok(arrayToJson);
+        }
+        else{
+            return ResponseEntity.ok(isAuthorReviewExistsRequest);
         }
     }
 }

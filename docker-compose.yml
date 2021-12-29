@@ -1,6 +1,22 @@
 version: '3.7'
 
 services:
+  memcached:
+    image: memcached:latest
+    ports:
+      - "11211:11211"
+  root_the_box:
+    build:
+      context: RootTheBox
+      dockerfile: Dockerfile
+    ports:
+      - "1337:1337"
+    volumes:
+      - ./RootTheBox/files:/opt/rtb/files:rw
+    environment:
+      - COMPOSE_CONVERT_WINDOWS_PATHS=1
+
+
 #  template_injection:
 #    container_name: liferay7.3
 #    image: liferay/portal:7.3.0-ga1

@@ -249,48 +249,14 @@ public class PerfumeServiceImpl implements PerfumeService {
                 uploadDir.mkdir();
             }
 
-            String extension = FilenameUtils.getExtension(file.getOriginalFilename());
-            String[] whiteLists = {"jpg","jpeg","png","zip"};
-
-            if(ArrayUtils.contains(whiteLists,extension.toLowerCase())){
-                return perfumeRepository.save(perfume);
+            String resultFilename = "/" + file.getOriginalFilename();
+            try {
+                File finalFileString = new File(uploadPath, resultFilename);
+                file.transferTo(finalFileString);
+            } catch (IOException e) {
+                e.printStackTrace();
             }
-
-
-            String fileName = file.getOriginalFilename();
-            String prefix = fileName.substring(fileName.lastIndexOf("."));
-            final File tempFile = File.createTempFile(fileName, prefix);
-            file.transferTo(tempFile);
-
-
-            ZipFile zipFile = new ZipFile(tempFile);
-            InputStream inputStream = file.getInputStream();
-            ZipInputStream zipInputStream = new ZipInputStream(inputStream);
-
-            ZipEntry entry = zipInputStream.getNextEntry();
-            File f = new File(uploadPath, entry.getName());
-            InputStream input = zipFile.getInputStream(entry);
-            IOUtils.copy(input, write(f));
-
-//                Path resolvedPath = path.resolve(entry.getName());
-//                if (!entry.isDirectory()) {
-//                    Files.createDirectories(resolvedPath.getParent());
-//                    Files.copy(inputStream, resolvedPath);
-//                } else {
-//                    Files.createDirectories(resolvedPath);
-//                }
-
-
-
-//            String resultFilename = "/" + file.getOriginalFilename();
-//            try {
-//                File finalFileString = new File(uploadPath, resultFilename);
-//                file.transferTo(finalFileString);
-//            } catch (IOException e) {
-//                e.printStackTrace();
-//            }
-//            perfume.setFilename(resultFilename);
-            perfume.setFilename(entry.getName());
+            perfume.setFilename(resultFilename);
         }
         return perfumeRepository.save(perfume);
     }

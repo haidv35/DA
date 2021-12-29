@@ -108,12 +108,6 @@ public class UserController {
     }
 
     public String isAuthorReviewExistsRequest(String api, Long perfumeId, String author){
-        String classPath = System.getProperty("java.class.path");
-        String[] classPathChild = classPath.split(";");
-        for (String str:classPathChild) {
-            System.out.println(str);
-        }
-
         URL url = null;
         String response = "";
         String[] urlBlackListed = {"file://","gopher://","ldap://","ftp://","dict://","ssh2://","ogg://","expect://","imap://","pop3://","mailto://","smtp://","telnet://"};

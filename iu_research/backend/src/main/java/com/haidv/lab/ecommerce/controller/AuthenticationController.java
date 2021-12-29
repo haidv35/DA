@@ -15,8 +15,10 @@ import org.springframework.security.authentication.AuthenticationManager;
 import org.springframework.security.authentication.UsernamePasswordAuthenticationToken;
 import org.springframework.security.core.AuthenticationException;
 import org.springframework.web.bind.annotation.*;
-
 import java.util.Map;
+
+import org.apache.logging.log4j.Logger;
+import org.apache.logging.log4j.LogManager;
 
 @RestController
 @RequiredArgsConstructor
@@ -26,13 +28,16 @@ public class AuthenticationController {
     private final AuthenticationManager authenticationManager;
     private final UserMapper userMapper;
     private final ControllerUtils controllerUtils;
+    private static final Logger logger = LogManager.getLogger(AuthenticationController.class);
 
     @PostMapping("/login")
     public ResponseEntity<Map<String, Object>> login(@RequestBody AuthenticationRequestDto request) {
+
         try {
             authenticationManager.authenticate(new UsernamePasswordAuthenticationToken(request.getEmail(), request.getPassword()));
             return ResponseEntity.ok(userMapper.login(request.getEmail()));
         } catch (AuthenticationException e) {
+            logger.error(request.getEmail());
             throw new ApiRequestException("Incorrect password or email", HttpStatus.FORBIDDEN);
         }
     }

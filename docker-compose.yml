@@ -17,12 +17,14 @@ services:
       - COMPOSE_CONVERT_WINDOWS_PATHS=1
 
 
-#  template_injection:
-#    container_name: liferay7.3
-#    image: liferay/portal:7.3.0-ga1
-#    ports:
-#      - "9030:8080"
-#    restart: always
+  template_injection:
+    container_name: liferay7.3
+    image: liferay/portal:7.3.0-ga1
+    ports:
+      - "9030:8080"
+    volumes:
+      - ~/Liferay/flag.txt:/flag.txt
+    restart: always
 
   iuresearch_db:
     image: mysql:8.0
@@ -67,13 +69,13 @@ services:
       - iuresearch_backend
       - iuresearch_frontend
 
-#  deserialization_resteasy:
-#    build:
-#      context: RESTEasyDeser
-#      dockerfile: Dockerfile
-#    ports:
-#      - "9020:9020"
-#    restart: always
+  deserialization_resteasy:
+    build:
+      context: RESTEasyDeser
+      dockerfile: Dockerfile
+    ports:
+      - "9020:9020"
+    restart: always
 
 networks:
   iuresearch_backend:

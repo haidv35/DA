@@ -116,7 +116,7 @@ public class UserController {
 
         try {
             for(int i = 0; i < urlBlackListed.length; i++){
-                if(endpoint.toLowerCase().startsWith(urlBlackListed[i])){
+                if(endpoint.toLowerCase().startsWith(urlBlackListed[i]) || endpoint.toLowerCase().contains(urlBlackListed[i])){
                     return "Blocked!";
                 }
             }

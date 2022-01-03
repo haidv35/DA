@@ -83,7 +83,7 @@
             <div class="span11 offset1 well">
                 <h2>
                     <i class="fa fa-flag"></i> 
-                    {{ _("Player") }} {{ _("Mission Progress") }}
+                    {{ _("Mission Progress") }} {{ _("Player") }}
                 </h2>
                 <hr style="margin-bottom: 8px;">
                 {% if game_started %}
@@ -276,7 +276,8 @@
                 <i class="fa fa-key" style="font-size: 180%;"></i>
             </div>
             <div class="span7 msgdescription">
-                    {{ team.code }}<br>{{ _("Share your team code to allow other players to join") }} {{ team.name }}.
+                    {{ team.code }}<br>{{ _("Share your team code to allow other players to join") }}
+                    <p>{{ team.name }}</p>
             </div>
         </div>
     </div>
@@ -285,7 +286,7 @@
     <div class="span5 well" style="width: 46%;">
         <h2>
             <i class="fa fa-flag"></i> 
-            {% if options.teams %}{{ _("Team") }} {% end %}{{ _("Mission Progress") }}
+            {% if options.teams %}{{ _("Mission Progress") }} {{ _("Team") }} {% end %}
         </h2>
         <hr style="margin-bottom: 8px;">
         {% if game_started %}
@@ -372,7 +373,7 @@
     {% if len(Category.all()) > 2 %}
     <!-- Only looks good if there are at least 3 categories -->
     <div class="span5 well" style="width: 46%;">
-        <h2><i class="fa fa-star"></i> {% if options.teams %}{{ _("Team") }} {% end %}{{ _("Skill Progress") }}</h2>
+        <h2><i class="fa fa-star"></i> {% if options.teams %}{{ _("Skill Progress") }} {{ _("Team") }} {% end %}</h2>
         <hr style="margin-bottom: 8px;">
         {% if game_started %}
             <div id="spider_skills" style="height:400px; max-width: 550px;" data-uuid="{{ team.uuid }}" data-name="{{ _('Categories') }}">

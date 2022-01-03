@@ -23,7 +23,7 @@ services:
     ports:
       - "9030:8080"
     volumes:
-      - ~/Liferay/flag.txt:/flag.txt
+      - ./Liferay/flag.txt:/flag.txt
     restart: always
 
   iuresearch_db:

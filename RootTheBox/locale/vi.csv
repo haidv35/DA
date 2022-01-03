@@ -1,697 +1,697 @@
-﻿(stop - start) * cost.,(Dừng - Bắt đầu) * Chi phí.
+﻿(Stop - Start) * Cost.,(Dừng - Bắt Đầu) * Chi Phí.
 $,$.
-A brief description of the lab,Một mô tả ngắn gọn về lab
+A Brief Description of the Lab,Một Mô Tả Ngắn Gọn Về Lab
 About,Về
-Accept,Chấp nhận
-Accept Bribe?,Chấp nhận hối lộ?
-Accept this bribe?,Chấp nhận hối lộ này?
-Accepted,Đã được chấp nhận
-Accepted / In Jail,Chấp nhận / trong tù
-Account Locked!,Tài khoản bị khóa!
-Account Password,Mật khẩu tài khoản
-Active Bots,Bot hoạt động
-Add,cộng
-Add,cộng
-add,cộng
-Add a Category for labes.,Thêm một danh mục cho Labes.
-Add Flags,Thêm flag
-Add Hint,Thêm Gợi ý
-Add IP address,Thêm địa chỉ IP
-Add IP Address,Thêm địa chỉ IP
-add some,điền thêm
-Add Source Code,Thêm mã nguồn
-Add Source Code to Market,Thêm mã nguồn vào thị trường
-Add to Market,Thêm vào thị trường
-Address,Địa chỉ nhà
-Admin,quản trị viên
-Admin Home,Quản trị viên
-Admin Message,Tin nhắn quản trị viên
-Admin Notes,Ghi chú quản trị viên.
-Administrator Panel,Quản trị viên
-Admins,Quản trị viên.
-All Notifications,Tất cả các thông báo
-and logos in export.,và logo trong xuất khẩu.
-and so on,và như thế
-Apply penalty on attempt,Áp dụng hình phạt về nỗ lực
-Are you a Cylon?,Bạn có phải là một cylon?
-Are You Elite,Bạn có elite.
-Are you sure you want to buy this code?,Bạn có chắc chắn muốn mua mã này?
-Are you sure you want to delete this lab?,Bạn có chắc chắn muốn xóa lab này?
-Are you sure you want to delete this category?,Bạn có chắc chắn muốn xóa danh mục này?
-Are you sure you want to delete this corporation?,Bạn có chắc chắn muốn xóa tổ chức này?
-Are you sure you want to delete this file?,Bạn có chắc chắn muốn xóa tập tin này?
-Are you sure you want to delete this flag?,Bạn có chắc chắn muốn xóa flag này?
-Are you sure you want to delete this game level?,Bạn có chắc chắn muốn xóa cấp độ trò chơi này?
-Are you sure you want to delete this hint?,Bạn có chắc chắn muốn xóa gợi ý này?
-Are you sure you want to delete this IP address?,Bạn có chắc chắn muốn xóa địa chỉ IP này?
-Are you sure you want to delete this source code?,Bạn có chắc chắn muốn xóa mã nguồn này?
-Are you sure you want to delete this user?,Bạn có chắc chắn muốn xóa người dùng này?
-Are you sure you want to delete?,Bạn có chắc chắn muốn xóa?
-Arrest Player,Người chơi bắt giữ
-attempt,nỗ lực
-attempt and continue until the,cố gắng và tiếp tục cho đến khi
-Attempts,Cố gắng
-Authenticate,Xác thực.
-Authentication Failure,Lỗi xác thực
-Authentication Required,Yêu cầu xác thực
-Automatic Ban,Ban tự động
+Accept,Chấp Nhận
+Accept Bribe?,Chấp Nhận Hối Lộ?
+Accept This Bribe?,Chấp Nhận Hối Lộ Này?
+Accepted,Đã Được Chấp Nhận
+Accepted / in Jail,Chấp Nhận / Trong Tù
+Account Locked!,Tài Khoản Bị Khóa!
+Account Password,Mật Khẩu Tài Khoản
+Active Bots,Bot Hoạt Động
+Add,Cộng
+Add,Cộng
+Add,Cộng
+Add a Category for Labes.,Thêm Một Danh Mục Cho Labes.
+Add Flags,Thêm Flag
+Add Hint,Thêm Gợi Ý
+Add Ip Address,Thêm Địa Chỉ Ip
+Add Ip Address,Thêm Địa Chỉ Ip
+Add Some,Điền Thêm
+Add Source Code,Thêm Mã Nguồn
+Add Source Code to Market,Thêm Mã Nguồn Vào Thị Trường
+Add to Market,Thêm Vào Thị Trường
+Address,Địa Chỉ Nhà
+Admin,Quản Trị Viên
+Admin Home,Quản Trị Viên
+Admin Message,Tin Nhắn Quản Trị Viên
+Admin Notes,Ghi Chú Quản Trị Viên.
+Administrator Panel,Quản Trị Viên
+Admins,Quản Trị Viên.
+All Notifications,Tất Cả Các Thông Báo
+And Logos in Export.,Và Logo Trong Xuất Khẩu.
+And So on,Và Như Thế
+Apply Penalty on Attempt,Áp Dụng Hình Phạt Về Nỗ Lực
+Are You a Cylon?,Bạn Có Phải Là Một Cylon?
+Are You Elite,Bạn Có Elite.
+Are You Sure You Want to Buy This Code?,Bạn Có Chắc Chắn Muốn Mua Mã Này?
+Are You Sure You Want to Delete This Lab?,Bạn Có Chắc Chắn Muốn Xóa Lab Này?
+Are You Sure You Want to Delete This Category?,Bạn Có Chắc Chắn Muốn Xóa Danh Mục Này?
+Are You Sure You Want to Delete This Corporation?,Bạn Có Chắc Chắn Muốn Xóa Tổ Chức Này?
+Are You Sure You Want to Delete This File?,Bạn Có Chắc Chắn Muốn Xóa Tập Tin Này?
+Are You Sure You Want to Delete This Flag?,Bạn Có Chắc Chắn Muốn Xóa Flag Này?
+Are You Sure You Want to Delete This Game Level?,Bạn Có Chắc Chắn Muốn Xóa Cấp Độ Trò Chơi Này?
+Are You Sure You Want to Delete This Hint?,Bạn Có Chắc Chắn Muốn Xóa Gợi Ý Này?
+Are You Sure You Want to Delete This Ip Address?,Bạn Có Chắc Chắn Muốn Xóa Địa Chỉ Ip Này?
+Are You Sure You Want to Delete This Source Code?,Bạn Có Chắc Chắn Muốn Xóa Mã Nguồn Này?
+Are You Sure You Want to Delete This User?,Bạn Có Chắc Chắn Muốn Xóa Người Dùng Này?
+Are You Sure You Want to Delete?,Bạn Có Chắc Chắn Muốn Xóa?
+Arrest Player,Người Chơi Bị Bắt
+Attempt,Nỗ Lực
+Attempt and Continue Until the,Cố Gắng Và Tiếp Tục Cho Đến Khi
+Attempts,Cố Gắng
+Authenticate,Xác Thực.
+Authentication Failure,Lỗi Xác Thực
+Authentication Required,Yêu Cầu Xác Thực
+Automatic Ban,Ban Tự Động
 Avatar,Avatar
-Backup/Restore,Phục hồi dữ liệu đã lưu
-Ban IP Address,Lệnh cấm ip
-Bank Account,Tài khoản ngân hàng
-Bank Account Balance,Số dư tài khoản ngân hàng
-Bank Hash Algorithm,Thuật toán băm ngân hàng
-Bank Password,Mật khẩu ngân hàng
-Bank Password Hash,Mật khẩu ngân hàng HASH.
-Bank Password Length,Độ dài mật khẩu ngân hàng
-Banking System,Hệ thống ngân hàng
-Banned IPs,Cấm ips.
-BEGIN SECURE COMMUNIQUE,Bắt đầu an toàn thông cáo
-Black Market,Chợ đen
-Bonus reward for those that complete the level.,Phần thưởng thưởng cho những người hoàn thành cấp độ.
-Bot,Người máy
-Bot added,Bot đã thêm
-Bot Reward,Phần thưởng bot.
+Backup/restore,Phục Hồi Dữ Liệu Đã Lưu
+Ban Ip Address,Lệnh Cấm Ip
+Bank Account,Tài Khoản Ngân Hàng
+Bank Account Balance,Số Dư Tài Khoản Ngân Hàng
+Bank Hash Algorithm,Thuật toán Băm Ngân Hàng
+Bank Password,Mật Khẩu Ngân Hàng
+Bank Password Hash,Mật Khẩu Ngân Hàng Hash.
+Bank Password Length,Độ Dài Mật Khẩu Ngân Hàng
+Banking System,Hệ Thống Ngân Hàng
+Banned Ips,Cấm Ips.
+Begin Secure Communique,Bắt Đầu an toàn Thông Cáo
+Black Market,Chợ Đen
+Bonus Reward for Those That Complete the Level.,Phần Thưởng Thưởng Cho Những Người Hoàn Thành Cấp Độ.
+Bot,Người Máy
+Bot Added,Bot Đã Thêm
+Bot Reward,Phần Thưởng Bot.
 Botnet,Botnet.
-Botnet Command & Control,Lệnh & Kiểm soát Botnet
-Botnet Monitor,Màn hình Botnet.
-Botnet Scored,Botnet ghi điểm.
+Botnet Command & Control,Lệnh & Kiểm Soát Botnet
+Botnet Monitor,Màn Hình Botnet.
+Botnet Scored,Botnet Ghi Điểm.
 Botnets,Botnets.
 Bots,Bot.
-lab,lab
-lab Difficulty,lab khó khăn
-lab Hints,gợi ý LAB.
-lab Hints Taken,Gợi ý trong lab được thực hiện
-lab Name,tên lab.
-labes,vu khống.
-Bribe,Mua chuộc
-Bribe Amount,Số tiền hối lộ
-Bribe History,Lịch sử hối lộ
-Bribe Pending,Hối lộ đang chờ xử lý.
-Bribe Price,Tiền hối lộ
-Bribes in Progress,Hối lộ trong tiến trình
+Lab,Lab
+Lab Difficulty,Lab Khó Khăn
+Lab Hints,Gợi Ý Lab.
+Lab Hints Taken,Gợi Ý Trong Lab Được Thực Hiện
+Lab Name,Tên Lab.
+Labes,Vu Khống.
+Bribe,Mua Chuộc
+Bribe Amount,Số Tiền Hối Lộ
+Bribe History,Lịch Sử Hối Lộ
+Bribe Pending,Hối Lộ Đang Chờ Xử Lý.
+Bribe Price,Tiền Hối Lộ
+Bribes in Progress,Hối Lộ Trong Tiến Trình
 Buy,Mua
-Buy Source Code,Mua mã nguồn.
-Buy Upgrade,Mua nâng cấp.
-bytes,byte.
-Capture Message,Tin nhắn chụp
-Capture Rate,Tốc độ chụp
+Buy Source Code,Mua Mã Nguồn.
+Buy Upgrade,Mua Nâng Cấp.
+Bytes,Byte.
+Capture Message,Tin Nhắn Chụp
+Capture Rate,Tốc Độ Chụp
 Captures,Chụp
-Case-Sensitive,Phân biệt hoa thường
-Cash Stolen,Tiền mặt bị đánh cắp
-Categories,Thể loại
+Case-sensitive,Phân Biệt Hoa Thường
+Cash Stolen,Tiền Mặt Bị Đánh Cắp
+Categories,Thể Loại
 Category,Loại
-Category lab belongs too?,lab hạng mục cũng thuộc về?
-Category Name,tên danh mục
-Change,Biến đổi
-Change Avatar,Thay đổi avatar.
-Characters,Nhân vật
-Charts,Biểu đồ
-Chat,Trò chuyện
-Checksum,Tổng kiểm tra
-Choose,Lựa chọn
-Choose a name for your new team!,Chọn một tên cho đội mới của bạn!
-Choose Avatar,Chọn avatar.
-Classic,Kinh điển
-Clear,Thông thoáng
-Clear all notifications and game history,Xóa tất cả thông báo và lịch sử trò chơi
-Clear all team / player flag captures,Xóa tất cả các đội hình đội / người chơi chụp
-Clear all team pastebin and file shares,Xóa tất cả các nhóm Pastebin và chia sẻ tệp
-Clear market items or source code purchases,Xóa các mục thị trường hoặc mua mã nguồn
-Click here to login,Nhấn vào đây để đăng nhập
+Category Lab Belongs Too?,Lab Hạng Mục Cũng Thuộc Về?
+Category Name,Tên Danh Mục
+Change,Biến Đổi
+Change Avatar,Thay Đổi Avatar.
+Characters,Nhân Vật
+Charts,Biểu Đồ
+Chat,Trò Chuyện
+Checksum,Tổng Kiểm Tra
+Choose,Lựa Chọn
+Choose a Name for Your New Team!,Chọn Một Tên Cho Đội Mới Của Bạn!
+Choose Avatar,Chọn Avatar.
+Classic,Kinh Điển
+Clear,Thông Thoáng
+Clear All Notifications and Game History,Xóa Tất Cả Thông Báo Và Lịch Sử Trò Chơi
+Clear All Team / Player Flag Captures,Xóa Tất Cả Các Đội Hình Đội / Người Chơi Chụp
+Clear All Team Pastebin and File Shares,Xóa Tất Cả Các Nhóm Pastebin Và Chia Sẻ Tệp
+Clear Market Items or Source Code Purchases,Xóa Các Mục Thị Trường Hoặc Mua Mã Nguồn
+Click Here to Login,Nhấn Vào Đây Để Đăng Nhập
 Close,Đóng
-Command & Control,Lệnh & Kiểm soát
-Complete,Hoàn chỉnh
-Complete Bribe,Hối lộ hoàn toàn
-Complete this bribe?,Hoàn thành hối lộ này?
-Completed,Hoàn thành
-Completed Bribes,Hoàn thành hối lộ
-Completion Message,Thông điệp hoàn thành
-completion of Level,hoàn thành cấp độ
-Completion Reward,Phần thưởng hoàn thành
-Configuration,Cấu hình
-Confirm,Xác nhận
-Confirm Account Password,Xác nhận mật khẩu tài khoản
-Confirm New Password,Xác nhận mật khẩu mới
-Confirm Password,Xác nhận mật khẩu
-Content,Nội dung
-Content Missing,Nội dung bị thiếu.
-Corporation,tổ chức
-Corporation lab belongs too?,Corporation Lab thuộc về quá?
-Corporation Name,TÊN CÔNG TY.
-Corporations,Tổng công ty.
-Cost,Phí tổn
-Cost to open this level and see flags,Chi phí để mở cấp độ này và xem flag
-Cracked by,Bị nứt bởi
+Command & Control,Lệnh & Kiểm Soát
+Complete,Hoàn Chỉnh
+Complete Bribe,Hối Lộ Hoàn toàn
+Complete This Bribe?,Hoàn Thành Hối Lộ Này?
+Completed,Hoàn Thành
+Completed Bribes,Hoàn Thành Hối Lộ
+Completion Message,Thông Điệp Hoàn Thành
+Completion of Level,Hoàn Thành Cấp Độ
+Completion Reward,Phần Thưởng Hoàn Thành
+Configuration,Cấu Hình
+Confirm,Xác Nhận
+Confirm Account Password,Xác Nhận Mật Khẩu Tài Khoản
+Confirm New Password,Xác Nhận Mật Khẩu Mới
+Confirm Password,Xác Nhận Mật Khẩu
+Content,Nội Dung
+Content Missing,Nội Dung Bị Thiếu.
+Corporation,Tổ Chức
+Corporation Lab Belongs Too?,Corporation Lab Thuộc Về Quá?
+Corporation Name,Tên Công Ty.
+Corporations,Tổng Công Ty.
+Cost,Phí Tổn
+Cost to Open This Level and See Flags,Chi Phí Để Mở Cấp Độ Này Và Xem Flag
+Cracked by,Bị Nứt Bởi
 Create,Tạo
-Create lab,Tạo lab
-Create Category,Tạo thể loại
-Create Corporation,Tạo Tổng công ty
-Create Datetime Flag,Tạo flag DateTime.
-Create File Flag,Tạo flag tập tin
-Create Flag,Tạo flag
-Create Game Level,Tạo cấp độ trò chơi
-Create Hint,Tạo gợi ý
-Create Message,Soạn tin nhắn
-Create Multiple Choice Flag,Tạo flag nhiều lựa chọn
-Create New Paste,Tạo dán mới
-Create Notification,Tạo thông báo
-Create Regex Flag,Tạo flag regex
-Create Static Flag,Tạo flag tĩnh
-Create Team,Tạo nhóm
+Create Lab,Tạo Lab
+Create Category,Tạo Thể Loại
+Create Corporation,Tạo Tổng Công Ty
+Create Datetime Flag,Tạo Flag Datetime.
+Create File Flag,Tạo Flag Tập Tin
+Create Flag,Tạo Flag
+Create Game Level,Tạo Cấp Độ Trò Chơi
+Create Hint,Tạo Gợi Ý
+Create Message,Soạn Tin Nhắn
+Create Multiple Choice Flag,Tạo Flag Nhiều Lựa Chọn
+Create New Paste,Tạo Dán Mới
+Create Notification,Tạo Thông Báo
+Create Regex Flag,Tạo Flag Regex
+Create Static Flag,Tạo Flag Tĩnh
+Create Team,Tạo Nhóm
 Created,Tạo
-Current algorithm,Thuật toán hiện tại
-Current Bank Account Password,Mật khẩu tài khoản ngân hàng hiện tại
-Current Bank Password,Mật khẩu ngân hàng hiện tại
-Current Level,Mức hiện tại
-Current Level,Mức hiện tại
-CyberChef,Cyberchef.
-Data Points,Điểm dữ liệu
+Current Algorithm,Thuật toán Hiện Tại
+Current Bank Account Password,Mật Khẩu Tài Khoản Ngân Hàng Hiện Tại
+Current Bank Password,Mật Khẩu Ngân Hàng Hiện Tại
+Current Level,Cấp Độ Hiện Tại
+Current Level,Cấp Độ Hiện Tại
+Cyberchef,Cyberchef.
+Data Points,Điểm Dữ Liệu
 Date,Ngày
-Datetime Flag,flag DateTime.
-Datetime Token,Token DateTime.
-DEBUG,Gỡ lỗi.
-Decline,Từ chối
-Decline Bribe?,Từ chối hối lộ?
-Decline this bribe?,Từ chối hối lộ này?
-Declined,Suy giảm
-Decrease All Captures,Giảm tất cả các nắm bắt
-Decrease flag reward by this percent per capture.,Giảm phần thưởng flag bằng phần trăm này mỗi lần chụp.
-Decrease flag until it reaches this minimum value.,Giảm flag cho đến khi đạt đến giá trị tối thiểu này.
-Decrease Future Captures,Giảm ghi lại trong tương lai
-Decreases the flag value for future captures - this method rewards speed of capture.,Giảm giá trị flag cho các ghi lại trong tương lai - phương pháp này phần thưởng tăng tốc độ của Capture.
-Decreases the flag value for past and future team captures - this method rewards difficulty.,Giảm giá trị flag cho các lần chụp đội trong quá khứ và trong tương lai - Phương pháp này là phần thưởng khó khăn.
-deduct on & after,khấu trừ và sau
-defaults to,mặc định cho
-Delete,Xóa bỏ
-Delete lab,Xóa Lab.
-Delete Category,Xóa thể loại
-Delete Corporation,Xóa Tổng công ty.
-Delete File Upload,Xóa tệp Tải lên
-Delete Flag,Xóa flag
-Delete Game Level,Xóa cấp độ trò chơi
-Delete Hint,Xóa gợi ý
-Delete IP Address,Xóa địa chỉ IP
-Delete Player,Xóa người chơi
-Delete Source Code,Xóa mã nguồn.
+Datetime Flag,Flag Datetime.
+Datetime Token,Token Datetime.
+Debug,Gỡ Lỗi.
+Decline,Từ Chối
+Decline Bribe?,Từ Chối Hối Lộ?
+Decline This Bribe?,Từ Chối Hối Lộ Này?
+Declined,Suy Giảm
+Decrease All Captures,Giảm Tất Cả Các Nắm Bắt
+Decrease Flag Reward by This Percent Per Capture.,Giảm Phần Thưởng Flag Bằng Phần Trăm Này Mỗi Lần Chụp.
+Decrease Flag Until It Reaches This Minimum Value.,Giảm Flag Cho Đến Khi Đạt Đến Giá Trị Tối Thiểu Này.
+Decrease Future Captures,Giảm Ghi Lại Trong Tương Lai
+Decreases the Flag Value for Future Captures - This Method Rewards Speed of Capture.,Giảm Giá Trị Flag Cho Các Ghi Lại Trong Tương Lai - Phương Pháp Này Phần Thưởng Tăng Tốc Độ Của Capture.
+Decreases the Flag Value for Past and Future Team Captures - This Method Rewards Difficulty.,Giảm Giá Trị Flag Cho Các Lần Chụp Đội Trong Quá Khứ Và Trong Tương Lai - Phương Pháp Này Là Phần Thưởng Khó Khăn.
+Deduct on & After,Khấu Trừ Và Sau
+Defaults to,Mặc Định Cho
+Delete,Xóa Bỏ
+Delete Lab,Xóa Lab.
+Delete Category,Xóa Thể Loại
+Delete Corporation,Xóa Tổng Công Ty.
+Delete File Upload,Xóa Tệp Tải Lên
+Delete Flag,Xóa Flag
+Delete Game Level,Xóa Cấp Độ Trò Chơi
+Delete Hint,Xóa Gợi Ý
+Delete Ip Address,Xóa Địa Chỉ Ip
+Delete Player,Xóa Người Chơi
+Delete Source Code,Xóa Mã Nguồn.
 Delete Team,Xóa Đội
-Delete User,Xóa người dùng
-Dependent Flag,flag phụ thuộc
-Description,Miêu tả
-DESCRIPTION,MIÊU TẢ
-Details,Thông tin chi tiết
-Difficulty,Sự khó khăn
-Difficulty Rating,Khó đánh giá
-Disable,Vô hiệu hóa
-Disabling this option will skip the story line and give the player an instant capture message.,Vô hiệu hóa tùy chọn này sẽ bỏ qua dòng câu chuyện và cung cấp cho người chơi một tin nhắn chụp tức thời.
-Display Hints Taken,Hiển thị gợi ý được thực hiện
-Do not delete or modify community flags unless instructed. Do not attack other players unless outlined in the game goals.,Không xóa hoặc sửa đổi flag cộng đồng trừ khi được hướng dẫn. Đừng tấn công những người chơi khác trừ khi được nêu trong mục tiêu trò chơi.
-Download,Tải xuống
-Download File,Tải tập tin
-Download the command line botnet monitor,Tải xuống màn hình Botnet dòng lệnh
-Dynamic Decay Type,Loại phân rã động
-Dynamic Scoring,Ghi điểm động
-Each flag has a submit. The player will choose the flag they intend to capture.,Mỗi flag có một trình. Người chơi sẽ chọn flag họ dự định chụp.
-"Each player will target challenges of varying difficulty and sophistication, attempting to collect flags and win glory. Good luck!","Mỗi người chơi sẽ nhắm mục tiêu những thách thức khó khăn và tinh tế, cố gắng thu thập flag và giành được vinh quang. Chúc may mắn!"
-Edit,Biên tập
-Edit Access,Chỉnh sửa truy cập
-Edit Account,Chỉnh sửa tài khoản
-Edit lab,Chỉnh sửa lab
-Edit Category,Chỉnh sửa Thể loại
-Edit Corporation,Chỉnh sửa Tổng công ty.
-Edit Flag,Chỉnh sửa flag
-Edit Flag,Chỉnh sửa flag
-Edit Game Level,Chỉnh sửa cấp độ trò chơi
-Edit Hint,Chỉnh sửa Gợi ý
-Edit Level,Chỉnh sửa cấp độ
-Edit Market Item,Chỉnh sửa mục thị trường
-Edit Player,Chỉnh sửa máy nghe nhạc
-Edit Team,Chỉnh sửa nhóm
-Edit User,Người dùng biên tập
+Delete User,Xóa Người Dùng
+Dependent Flag,Flag Phụ Thuộc
+Description,Miêu Tả
+Description,Miêu Tả
+Details,Thông Tin Chi Tiết
+Difficulty,Sự Khó Khăn
+Difficulty Rating,Khó Đánh Giá
+Disable,Vô Hiệu Hóa
+Disabling This Option Will Skip the Story Line and Give the Player an Instant Capture Message.,Vô Hiệu Hóa Tùy Chọn Này Sẽ Bỏ Qua Dòng Câu Chuyện Và Cung Cấp Cho Người Chơi Một Tin Nhắn Chụp Tức Thời.
+Display Hints Taken,Hiển Thị Gợi Ý Được Thực Hiện
+Do Not Delete or Modify Community Flags Unless Instructed. Do Not Attack Other Players Unless Outlined in the Game Goals.,Không Xóa Hoặc Sửa Đổi Flag Cộng Đồng Trừ Khi Được Hướng Dẫn. Đừng Tấn Công Những Người Chơi Khác Trừ Khi Được Nêu Trong Mục Tiêu Trò Chơi.
+Download,Tải Xuống
+Download File,Tải Tập Tin
+Download the Command Line Botnet Monitor,Tải Xuống Màn Hình Botnet Dòng Lệnh
+Dynamic Decay Type,Loại Phân Rã Động
+Dynamic Scoring,Ghi Điểm Động
+Each Flag Has a Submit. The Player Will Choose the Flag They Intend to Capture.,Mỗi Flag Có Một Trình. Người Chơi Sẽ Chọn Flag Họ Dự Định Chụp.
+"Each Player Will Target Challenges of Varying Difficulty and Sophistication, Attempting to Collect Flags and Win Glory. Good Luck!",""
+Edit,Biên Tập
+Edit Access,Chỉnh Sửa Truy Cập
+Edit Account,Chỉnh Sửa Tài Khoản
+Edit Lab,Chỉnh Sửa Lab
+Edit Category,Chỉnh Sửa Thể Loại
+Edit Corporation,Chỉnh Sửa Tổng Công Ty.
+Edit Flag,Chỉnh Sửa Flag
+Edit Flag,Chỉnh Sửa Flag
+Edit Game Level,Chỉnh Sửa Cấp Độ Trò Chơi
+Edit Hint,Chỉnh Sửa Gợi Ý
+Edit Level,Chỉnh Sửa Cấp Độ
+Edit Market Item,Chỉnh Sửa Mục Thị Trường
+Edit Player,Chỉnh Sửa Máy Nghe Nhạc
+Edit Team,Chỉnh Sửa Nhóm
+Edit User,Người Dùng Biên Tập
 Email,E-mail
-EMPTY,TRỐNG
-Enable,Cho phép
-"Enabling this feature will allow players to create their own teams during registration. If this option is disabled, the admin must create teams for players to join.","Kích hoạt tính năng này sẽ cho phép người chơi tạo các nhóm riêng của họ trong quá trình đăng ký. Nếu tùy chọn này bị vô hiệu hóa, quản trị viên phải tạo các nhóm để người chơi tham gia."
-Enabling this feature will allow players to share code (pastebin) and files in-game. Disabling this feature will remove these options from the Tools Menu.,Kích hoạt tính năng này sẽ cho phép người chơi chia sẻ mã (Pastebin) và tệp trong trò chơi. Vô hiệu hóa tính năng này sẽ xóa các tùy chọn này khỏi menu Công cụ.
-"Enabling this feature will allow teams to purchase upgrades, such as the Federal Reserve, Source Code Market, or SWAT.","Kích hoạt tính năng này sẽ cho phép các nhóm mua nâng cấp, chẳng hạn như Cục Dự trữ Liên bang, Thị trường mã nguồn hoặc SWAT."
-"Enabling this feature will allow the game to display flag or lab capture messages that may be added. By default, the game follows the storyline of Morris, an employer that assigns missions.","Kích hoạt tính năng này sẽ cho phép trò chơi hiển thị flag hoặc tin nhắn chụp lab có thể được thêm vào. Theo mặc định, trò chơi theo cốt truyện của Morris, một chủ nhân giao nhiệm vụ."
-"Enabling this feature will apply a penalty for incorrect capture attempts. The penalty is an instant deduction from the score, not a decrease in the flag value.","Kích hoạt tính năng này sẽ áp dụng một hình phạt cho các nỗ lực chụp không chính xác. Hình phạt là một khoản khấu trừ ngay lập tức từ điểm số, không giảm giá trị flag."
-"Enabling this feature will decrease the reward for a flag based on the number of captures. If this option is disabled, the flag value remains consistent as other players capture it.","Kích hoạt tính năng này sẽ làm giảm phần thưởng cho một flag dựa trên số lần chụp. Nếu tùy chọn này bị vô hiệu hóa, giá trị flag vẫn phù hợp như những người chơi khác nắm bắt nó."
-Enabling this feature will display the number of hints taken on the scoreboard by a team or player. Useful when hints are free. A lower hint count is used for sorting when scores or flags are equal. Disabling this option will remove the hint count from the scoreboard.,Kích hoạt tính năng này sẽ hiển thị số lượng gợi ý được thực hiện trên bảng điểm bởi một nhóm hoặc người chơi. Hữu ích khi Gợi ý là miễn phí. Số lượng gợi ý thấp hơn được sử dụng để sắp xếp khi điểm hoặc flag bằng nhau. Vô hiệu hóa tùy chọn này sẽ xóa đếm Gợi ý khỏi bảng điểm.
-"Enabling this feature will display the player MVP scoreboard. Any player that has contributed points to the team will be displayed. If this option is disabled, the MVP Scoreboard will be hidden.","Kích hoạt tính năng này sẽ hiển thị bảng điểm MVP của người chơi. Bất kỳ người chơi nào đã đóng góp điểm cho nhóm sẽ được hiển thị. Nếu tùy chọn này bị vô hiệu hóa, bảng điểm MVP sẽ bị ẩn."
-Enabling this feature will require players to provide a valid registration token in order to create a new account. Registration tokens are created in the admin interface.,Kích hoạt tính năng này sẽ yêu cầu người chơi cung cấp mã thông báo đăng ký hợp lệ để tạo tài khoản mới. Token đăng ký được tạo trong giao diện quản trị.
-Enabling this feature will require players to provide an email address in order to create a new account.,Kích hoạt tính năng này sẽ yêu cầu người chơi cung cấp địa chỉ email để tạo tài khoản mới.
-Enabling this feature will send flag and level unlock notifications to all players in the game. Disabling this option will limit those notifications to team members.,Kích hoạt tính năng này sẽ gửi thông báo mở khóa flag và mở khóa cho tất cả người chơi trong trò chơi. Vô hiệu hóa tùy chọn này sẽ giới hạn các thông báo cho các thành viên trong nhóm.
-"Enabling this feature will set the game and scoreboard up for team competitive play. If this option is disabled, the game is set up for individual competitive play.","Kích hoạt tính năng này sẽ thiết lập trò chơi và điểm số để chơi cạnh tranh của đội. Nếu tùy chọn này bị vô hiệu hóa, trò chơi được thiết lập để chơi cạnh tranh cá nhân."
-"Enabling this feature will set the game to use a money based scoring system. If this option is disabled, the game uses a points based scoring system.","Kích hoạt tính năng này sẽ thiết lập trò chơi để sử dụng hệ thống ghi điểm dựa trên tiền. Nếu tùy chọn này bị vô hiệu hóa, trò chơi sử dụng hệ thống ghi điểm dựa trên điểm."
-"Enabling this option will set the token to be case sensitive. If this option is disabled, the answer token is case-insensitive.","Kích hoạt tùy chọn này sẽ đặt mã thông báo thành trường hợp nhạy cảm. Nếu tùy chọn này bị vô hiệu hóa, mã thông báo câu trả lời là không phân biệt chữ hoa chữ thường."
-"Enabling this option will set the token to be case senstive. If this option is disabled, the answer token is case-insenstive.","Kích hoạt tùy chọn này sẽ đặt mã thông báo thành trường hợp Senstive. Nếu tùy chọn này bị vô hiệu hóa, mã thông báo câu trả lời là Case-Insenstive."
-Enabling this setting activates the botnet features. Teams can run their bot executables on labes they pwn and are paid for each bot over time.,Kích hoạt cài đặt này kích hoạt các tính năng Botnet. Các nhóm có thể chạy các tệp thực thi BOT của họ trên các LABES mà họ PWN và được trả cho mỗi bot theo thời gian.
-END SECURE COMMUNIQUE,End an toàn thông cáo
-Enter a complex password of,Nhập mật khẩu phức tạp của
-Enter a Matching Flag,Nhập một flag phù hợp
-Enter Choice,Nhập sự lựa chọn
-Enter the same password as before,Nhập cùng một mật khẩu như trước
-ERROR,LỖI
-Expire,Hết hiệu lực
-Export Game Objects,Đối tượng xuất khẩu trò chơi
-Export of gameplay settings does not include the entire server and database configuration.,Xuất cài đặt Gameplay không bao gồm toàn bộ cấu hình máy chủ và cơ sở dữ liệu.
-Export XML,Xuất XML.
-Export XML,Xuất XML.
-Failed Attempts,Nỗ lực không thành
-Failed Logins,Đăng nhập thất bại.
-Failure has a cost. Be careful as penalties are applied when incorrect answers are submitted.,Thất bại có một chi phí. Hãy cẩn thận vì hình phạt được áp dụng khi câu trả lời không chính xác được gửi.
-Federal Reserve,Dự trữ Liên bang
-Federal Reserve Bank,Ngân hàng Dự trữ Liên bang
-File,Tập tin
-File Description,Mô tả tập tin
-File Flag,flag tập tin
-File Name,Tên tập tin.
-File Share,Chia sẻ tệp
-File Sharing,Chia sẻ file
-File Size,Kích thước tập tin
-First Login,Đăng nhập đầu tiên
-Flag,flag
-Flag Capture,flag Chụp
-Flag Decrease Value,flag giảm giá trị
-Flag Details,Chi tiết flag
-Flag File,flag tập tin
-Flag Hints,Gợi ý flag
-Flag Minimum Value,flag giá trị tối thiểu
-Flag Name,Tên flag
-Flag Penalty,flag phạt
-Flag Penalty % Cost,flag phạt% chi phí
-Flag Penalty Cost,flag đóng phạt chi phí
-Flag Penalty Start,flag bắt đầu
-Flag Penalty Stop,flag phạt dừng
-Flag Submission Type,flag gửi loại
-Flag Type,flag loại
-Flags,flag
-Flags / labes / Corp.,flag / Bland / Corp
-Flags Captured,flag bị bắt
-Flags on,flag trên
-for,vì
+Empty,Trống
+Enable,Cho Phép
+"Enabling This Feature Will Allow Players to Create Their Own Teams During Registration. If This Option Is Disabled, the Admin Must Create Teams for Players to Join.","Kích Hoạt Tính Năng Này Sẽ Cho Phép Người Chơi Tạo Các Nhóm Riêng Của Họ Trong Quá Trình Đăng Ký. Nếu Tùy Chọn Này Bị Vô Hiệu Hóa, Quản Trị Viên Phải Tạo Các Nhóm Để Người Chơi Tham Gia."
+Enabling This Feature Will Allow Players to Share Code (Pastebin) and Files in-game. Disabling This Feature Will Remove These Options From the Tools Menu.,Kích Hoạt Tính Năng Này Sẽ Cho Phép Người Chơi Chia Sẻ Mã (Pastebin) Và Tệp Trong Trò Chơi. Vô Hiệu Hóa Tính Năng Này Sẽ Xóa Các Tùy Chọn Này Khỏi Menu Công Cụ.
+"Enabling This Feature Will Allow Teams to Purchase Upgrades, Such as the Federal Reserve, Source Code Market, or Swat.","Kích Hoạt Tính Năng Này Sẽ Cho Phép Các Nhóm Mua Nâng Cấp, Chẳng Hạn Như Cục Dự Trữ Liên Bang, Thị Trường Mã Nguồn Hoặc Swat."
+"Enabling This Feature Will Allow the Game to Display Flag or Lab Capture Messages That May Be Added. By Default, the Game Follows the Storyline of Morris, an Employer That Assigns Missions.","Kích Hoạt Tính Năng Này Sẽ Cho Phép Trò Chơi Hiển Thị Flag Hoặc Tin Nhắn Chụp Lab Có Thể Được Thêm Vào. Theo Mặc Định, Trò Chơi Theo Cốt Truyện Của Morris, Một Chủ Nhân Giao Nhiệm Vụ."
+"Enabling This Feature Will Apply a Penalty for Incorrect Capture Attempts. The Penalty Is an Instant Deduction From the Score, Not a Decrease in the Flag Value.","Kích Hoạt Tính Năng Này Sẽ Áp Dụng Một Hình Phạt Cho Các Nỗ Lực Chụp Không Chính Xác. Hình Phạt Là Một Khoản Khấu Trừ Ngay Lập Tức Từ Điểm Số, Không Giảm Giá Trị Flag."
+"Enabling This Feature Will Decrease the Reward for a Flag Based on the Number of Captures. If This Option Is Disabled, the Flag Value Remains Consistent as Other Players Capture It.","Kích Hoạt Tính Năng Này Sẽ Làm Giảm Phần Thưởng Cho Một Flag Dựa Trên Số Lần Chụp. Nếu Tùy Chọn Này Bị Vô Hiệu Hóa, Giá Trị Flag Vẫn Phù Hợp Như Những Người Chơi Khác Nắm Bắt Nó."
+Enabling This Feature Will Display the Number of Hints Taken on the Scoreboard by a Team or Player. Useful When Hints Are Free. A Lower Hint Count Is Used for Sorting When Scores or Flags Are Equal. Disabling This Option Will Remove the Hint Count From the Scoreboard.,Kích Hoạt Tính Năng Này Sẽ Hiển Thị Số Lượng Gợi Ý Được Thực Hiện Trên Bảng Điểm Bởi Một Nhóm Hoặc Người Chơi. Hữu Ích Khi Gợi Ý Là Miễn Phí. Số Lượng Gợi Ý Thấp Hơn Được Sử Dụng Để Sắp Xếp Khi Điểm Hoặc Flag Bằng Nhau. Vô Hiệu Hóa Tùy Chọn Này Sẽ Xóa Đếm Gợi Ý Khỏi Bảng Điểm.
+"Enabling This Feature Will Display the Player Mvp Scoreboard. Any Player That Has Contributed Points to the Team Will Be Displayed. If This Option Is Disabled, the Mvp Scoreboard Will Be Hidden.","Kích Hoạt Tính Năng Này Sẽ Hiển Thị Bảng Điểm Mvp Của Người Chơi. Bất Kỳ Người Chơi Nào Đã Đóng Góp Điểm Cho Nhóm Sẽ Được Hiển Thị. Nếu Tùy Chọn Này Bị Vô Hiệu Hóa, Bảng Điểm Mvp Sẽ Bị Ẩn."
+Enabling This Feature Will Require Players to Provide a Valid Registration Token in Order to Create a New Account. Registration Tokens Are Created in the Admin Interface.,Kích Hoạt Tính Năng Này Sẽ Yêu Cầu Người Chơi Cung Cấp Mã Thông Báo Đăng Ký Hợp Lệ Để Tạo Tài Khoản Mới. Token Đăng Ký Được Tạo Trong Giao Diện Quản Trị.
+Enabling This Feature Will Require Players to Provide an Email Address in Order to Create a New Account.,Kích Hoạt Tính Năng Này Sẽ Yêu Cầu Người Chơi Cung Cấp Địa Chỉ Email Để Tạo Tài Khoản Mới.
+Enabling This Feature Will Send Flag and Level Unlock Notifications to All Players in the Game. Disabling This Option Will Limit Those Notifications to Team Members.,Kích Hoạt Tính Năng Này Sẽ Gửi Thông Báo Mở Khóa Flag Và Mở Khóa Cho Tất Cả Người Chơi Trong Trò Chơi. Vô Hiệu Hóa Tùy Chọn Này Sẽ Giới Hạn Các Thông Báo Cho Các Thành Viên Trong Nhóm.
+"Enabling This Feature Will Set the Game and Scoreboard Up for Team Competitive Play. If This Option Is Disabled, the Game Is Set Up for Individual Competitive Play.","Kích Hoạt Tính Năng Này Sẽ Thiết Lập Trò Chơi Và Điểm Số Để Chơi Cạnh Tranh Của Đội. Nếu Tùy Chọn Này Bị Vô Hiệu Hóa, Trò Chơi Được Thiết Lập Để Chơi Cạnh Tranh Cá Nhân."
+"Enabling This Feature Will Set the Game to Use a Money Based Scoring System. If This Option Is Disabled, the Game Uses a Points Based Scoring System.","Kích Hoạt Tính Năng Này Sẽ Thiết Lập Trò Chơi Để Sử Dụng Hệ Thống Ghi Điểm Dựa Trên Tiền. Nếu Tùy Chọn Này Bị Vô Hiệu Hóa, Trò Chơi Sử Dụng Hệ Thống Ghi Điểm Dựa Trên Điểm."
+"Enabling This Option Will Set the Token to Be Case Sensitive. If This Option Is Disabled, the Answer Token Is Case-insensitive.","Kích Hoạt Tùy Chọn Này Sẽ Đặt Mã Thông Báo Thành Trường Hợp Nhạy Cảm. Nếu Tùy Chọn Này Bị Vô Hiệu Hóa, Mã Thông Báo Câu Trả Lời Là Không Phân Biệt Chữ Hoa Chữ Thường."
+"Enabling This Option Will Set the Token to Be Case Senstive. If This Option Is Disabled, the Answer Token Is Case-insenstive.","Kích Hoạt Tùy Chọn Này Sẽ Đặt Mã Thông Báo Thành Trường Hợp Senstive. Nếu Tùy Chọn Này Bị Vô Hiệu Hóa, Mã Thông Báo Câu Trả Lời Là Case-insenstive."
+Enabling This Setting Activates the Botnet Features. Teams Can Run Their Bot Executables on Labes They Pwn and Are Paid for Each Bot Over Time.,Kích Hoạt Cài Đặt Này Kích Hoạt Các Tính Năng Botnet. Các Nhóm Có Thể Chạy Các Tệp Thực Thi Bot Của Họ Trên Các Labes Mà Họ Pwn Và Được Trả Cho Mỗi Bot Theo Thời Gian.
+End Secure Communique,End an toàn Thông Cáo
+Enter a Complex Password of,Nhập Mật Khẩu Phức Tạp Của
+Enter a Matching Flag,Nhập Một Flag Phù Hợp
+Enter Choice,Nhập Sự Lựa Chọn
+Enter the Same Password as Before,Nhập Cùng Một Mật Khẩu Như Trước
+Error,Lỗi
+Expire,Hết Hiệu Lực
+Export Game Objects,Đối Tượng Xuất Khẩu Trò Chơi
+Export of Gameplay Settings Does Not Include the Entire Server and Database Configuration.,Xuất Cài Đặt Gameplay Không Bao Gồm toàn Bộ Cấu Hình Máy Chủ Và Cơ Sở Dữ Liệu.
+Export Xml,Xuất Xml.
+Export Xml,Xuất Xml.
+Failed Attempts,Nỗ Lực Không Thành
+Failed Logins,Đăng Nhập Thất Bại.
+Failure Has a Cost. Be Careful as Penalties Are Applied When Incorrect Answers Are Submitted.,Thất Bại Có Một Chi Phí. Hãy Cẩn Thận Vì Hình Phạt Được Áp Dụng Khi Câu Trả Lời Không Chính Xác Được Gửi.
+Federal Reserve,Dự Trữ Liên Bang
+Federal Reserve Bank,Ngân Hàng Dự Trữ Liên Bang
+File,Tập Tin
+File Description,Mô Tả Tập Tin
+File Flag,Flag Tập Tin
+File Name,Tên Tập Tin.
+File Share,Chia Sẻ Tệp
+File Sharing,Chia Sẻ File
+File Size,Kích Thước Tập Tin
+First Login,Đăng Nhập Đầu Tiên
+Flag,Flag
+Flag Capture,Flag Chụp
+Flag Decrease Value,Flag Giảm Giá Trị
+Flag Details,Chi Tiết Flag
+Flag File,Flag Tập Tin
+Flag Hints,Gợi Ý Flag
+Flag Minimum Value,Flag Giá Trị Tối Thiểu
+Flag Name,Tên Flag
+Flag Penalty,Flag Phạt
+Flag Penalty % Cost,Flag Phạt% Chi Phí
+Flag Penalty Cost,Flag Đóng Phạt Chi Phí
+Flag Penalty Start,Flag Bắt Đầu
+Flag Penalty Stop,Flag Phạt Dừng
+Flag Submission Type,Flag Gửi Loại
+Flag Type,Flag Loại
+Flags,Flag
+Flags / Labes / Corp.,Flag / Bland / Corp
+Flags Captured,Flag Thành Công
+Flags on,Flag Trên
+For,Vì
 Forbidden,Cấm
-Game,Trò chơi
-Game Control,Điều khiển trò chơi
-Game Information,Thông tin trò chơi
-Game Level,Cấp độ trò chơi
-Game Levels,Cấp độ trò chơi
-Game Management,Quản lý trò chơi
-Game Materials,Tài liệu trò chơi
-Game Name,Tên của trò chơi
-Game Progress,Tiến độ trò chơi
-Garbage File,Tệp rác
-Get help with,Nhận trợ giúp với.
-Get your registration token from reception,Nhận mã thông báo đăng ký của bạn từ Lễ tân
-Glitch in the Matrix,Trục trặc trong ma trận
-Global Notifications,Thông báo toàn cầu
-Handle,Tài khoản
-Hide scoreboard during countdown,Ẩn bảng điểm trong lúc đếm ngược
+Game,Trò Chơi
+Game Control,Điều Khiển Trò Chơi
+Game Information,Thông Tin Trò Chơi
+Game Level,Cấp Độ Trò Chơi
+Game Levels,Cấp Độ Trò Chơi
+Game Management,Quản Lý Trò Chơi
+Game Materials,Tài Liệu Trò Chơi
+Game Name,Tên Của Trò Chơi
+Game Progress,Tiến Độ Trò Chơi
+Garbage File,Tệp Rác
+Get Help With,Nhận Trợ Giúp Với.
+Get Your Registration Token From Reception,Nhận Mã Thông Báo Đăng Ký Của Bạn Từ Lễ Tân
+Glitch in the Matrix,Trục Trặc Trong Ma Trận
+Global Notifications,Thông Báo toàn Cầu
+Handle,Tài Khoản
+Hide Scoreboard During Countdown,Ẩn Bảng Điểm Trong Lúc Đếm Ngược
 Hint,Dấu
-Hint not yet taken,Gợi ý chưa được thực hiện
-Hint Taken,Gợi ý thực hiện
-Hints,HINTS.
-Hints on,Gợi ý về
-Hints Taken,Gợi ý thực hiện
-History,Môn lịch sử
-Home,Trang chủ
-How should the next level unlock?,Làm thế nào nên mở khóa cấp độ tiếp theo?
-I accept the,Tôi chấp nhận
-"If the flag selection is left empty, the hint will be considered a lab Hint.","Nếu lựa chọn flag bị bỏ trống, gợi ý sẽ được coi là một gợi ý trong lab."
-"If this option is disabled, there is no cost for submitting incorrect flags.","Nếu tùy chọn này bị vô hiệu hóa, sẽ không có chi phí để gửi flag không chính xác."
-Import File,Nhập tệp
-Import XML,Nhập XML.
-Import XML,Nhập XML.
-In Progress,Trong tiến trình
-"In this case, the flag is a Date / Time string. This flag type will try to match on common datetime format variations and deal with differences like slashes, dashes, padding, 12hr, 24hr, etc. It can handle a date, time, or a datetime.","Trong trường hợp này, flag là chuỗi ngày / giờ. Loại flag này sẽ cố gắng khớp với các biến thể định dạng DateTime phổ biến và đối phó với sự khác biệt như dấu gạch chéo, dấu gạch ngang, đệm, 12 giờ, 24 giờ, v.v. Nó có thể xử lý một ngày, giờ hoặc một datetime."
-"In this case, the flag is a multiple choice question where the selected option is the token.","Trong trường hợp này, flag là một câu hỏi trắc nghiệm nơi tùy chọn đã chọn là mã thông báo."
-"In this case, the flag is a regular expression. The user must submit the a string which matches the pattern to capture the flag. Matches can be insensitive. Please be sure to test your regex, and ensure its not too broad.","Trong trường hợp này, flag là một biểu thức thông thường. Người dùng phải gửi một chuỗi khớp với mẫu để chụp flag. Trận đấu có thể không nhạy cảm. Hãy chắc chắn kiểm tra regex của bạn và đảm bảo nó không quá rộng."
-"In this case, the flag is a static string. The user must submit the exact token to capture the flag. Whitespace at the beginning and end are stripped.","Trong trường hợp này, flag là một chuỗi tĩnh. Người dùng phải nộp mã thông báo chính xác để chụp flag. Khoảng trắng ở đầu và cuối bị tước."
-Include gameplay settings (such as those under,Bao gồm cài đặt chơi trò chơi (chẳng hạn như các cài đặt bên dưới
-Income,Thu nhập
-Incoming Transmission,Truyền đến
-Incorrect,Không đúng
-Incorrect Penalty,Hình phạt không chính xác
-indicates use by another player,Cho biết sử dụng bởi người chơi khác
-INFO,THÔNG TIN
-Information,Thông tin
-Invalid CSRF Token,Token CSRF không hợp lệ
-IP Address,Địa chỉ IP
-IP Version,Phiên bản IP.
-It appears you're an unsophisticated script kiddie!,Có vẻ như bạn là một kịch bản script không tinh vi!
-"It can be visible to all visitors (public), to authenticated users (players), or only to administrators (admins).","Nó có thể hiển thị cho tất cả khách truy cập (công khai), để người dùng xác thực (người chơi) hoặc chỉ với quản trị viên (Quản trị viên)."
-"It looks like you typed a URL incorrectly, or were attempting to find something you ought not have access to.",Có vẻ như bạn đã gõ một URL không chính xác hoặc đang cố gắng tìm thứ gì đó bạn không nên có quyền truy cập.
-"It's about the money and it's time to cash in on those skills! This game is set up to use a banking system, so waste no time to build your fortune and buy what you need to win.","Đó là về tiền và đã đến lúc phải rút tiền về những kỹ năng đó! Trò chơi này được thiết lập để sử dụng một hệ thống ngân hàng, vì vậy lãng phí thời gian để xây dựng tài sản của bạn và mua những gì bạn cần để giành chiến thắng."
-Item Cost,Chi phí mặt hàng
-Join Existing Team,Tham gia đội hiện có
-Known IP Addresses,Địa chỉ IP đã biết
-Last Ping,Ping cuối cùng
-Learn,Học hỏi
-Level,Cấp độ
-Level Name,Tên cấp độ
-Level Number,Cấp số
-Level to put lab in?,Cấp để đặt lab?
-Level Unlocked,Cấp độ mở khóa
-Limit number of players that can be on any one team,Giới hạn số lượng người chơi có thể ở bất kỳ một đội nào
-"Limits the number of attempts to capture a flag. Once the limit is reached, no further action can be taken on that flag.","Giới hạn số lần thử chụp flag. Khi đạt được giới hạn, không có hành động nào nữa có thể được thực hiện trên flag đó."
+Hint Not Yet Taken,Gợi Ý Chưa Được Thực Hiện
+Hint Taken,Gợi Ý Thực Hiện
+Hints,Hints.
+Hints on,Gợi Ý Về
+Hints Taken,Gợi Ý Thực Hiện
+History,Môn Lịch Sử
+Home,Trang Chủ
+How Should the Next Level Unlock?,Làm Thế Nào Nên Mở Khóa Cấp Độ Tiếp Theo?
+I Accept the,Tôi Chấp Nhận
+"if the Flag Selection Is Left Empty, the Hint Will Be Considered a Lab Hint.","Nếu Lựa Chọn Flag Bị Bỏ Trống, Gợi Ý Sẽ Được Coi Là Một Gợi Ý Trong Lab."
+"if This Option Is Disabled, There Is No Cost for Submitting Incorrect Flags.","Nếu Tùy Chọn Này Bị Vô Hiệu Hóa, Sẽ Không Có Chi Phí Để Gửi Flag Không Chính Xác."
+Import File,Nhập Tệp
+Import Xml,Nhập Xml.
+Import Xml,Nhập Xml.
+In Progress,Trong Tiến Trình
+"in This Case, the Flag Is a Date / Time String. This Flag Type Will Try to Match on Common Datetime Format Variations and Deal With Differences Like Slashes, Dashes, Padding, 12hr, 24hr, Etc. It Can Handle a Date, Time, or a Datetime.","Trong Trường Hợp Này, Flag Là Chuỗi Ngày / Giờ. Loại Flag Này Sẽ Cố Gắng Khớp Với Các Biến Thể Định Dạng Datetime Phổ Biến Và Đối Phó Với Sự Khác Biệt Như Dấu Gạch Chéo, Dấu Gạch Ngang, Đệm, 12 Giờ, 24 Giờ, V.v. Nó Có Thể Xử Lý Một Ngày, Giờ Hoặc Một Datetime."
+"in This Case, the Flag Is a Multiple Choice Question Where the Selected Option Is the Token.","Trong Trường Hợp Này, Flag Là Một Câu Hỏi Trắc Nghiệm Nơi Tùy Chọn Đã Chọn Là Mã Thông Báo."
+"in This Case, the Flag Is a Regular Expression. The User Must Submit the a String Which Matches the Pattern to Capture the Flag. Matches Can Be Insensitive. Please Be Sure to Test Your Regex, and Ensure Its Not Too Broad.","Trong Trường Hợp Này, Flag Là Một Biểu Thức Thông Thường. Người Dùng Phải Gửi Một Chuỗi Khớp Với Mẫu Để Chụp Flag. Trận Đấu Có Thể Không Nhạy Cảm. Hãy Chắc Chắn Kiểm Tra Regex Của Bạn Và Đảm Bảo Nó Không Quá Rộng."
+"in This Case, the Flag Is a Static String. The User Must Submit the Exact Token to Capture the Flag. Whitespace at the Beginning and End Are Stripped.","Trong Trường Hợp Này, Flag Là Một Chuỗi Tĩnh. Người Dùng Phải Nộp Mã Thông Báo Chính Xác Để Chụp Flag. Khoảng Trắng Ở Đầu Và Cuối Bị Tước."
+Include Gameplay Settings (Such as Those Under,Bao Gồm Cài Đặt Chơi Trò Chơi (Chẳng Hạn Như Các Cài Đặt Bên Dưới
+Income,Thu Nhập
+Incoming Transmission,Truyền Đến
+Incorrect,Không Đúng
+Incorrect Penalty,Hình Phạt Không Chính Xác
+Indicates Use by Another Player,Cho Biết Sử Dụng Bởi Người Chơi Khác
+Info,Thông Tin
+Information,Thông Tin
+Invalid Csrf Token,Token Csrf Không Hợp Lệ
+Ip Address,Địa Chỉ Ip
+Ip Version,Phiên Bản Ip.
+It Appears You're an Unsophisticated Script Kiddie!,Có Vẻ Như Bạn Là Một Kịch Bản Script Không Tinh Vi!
+"It Can Be Visible to All Visitors (Public), to Authenticated Users (Players), or Only to Administrators (Admins).","Nó Có Thể Hiển Thị Cho Tất Cả Khách Truy Cập (Công Khai), Để Người Dùng Xác Thực (Người Chơi) Hoặc Chỉ Với Quản Trị Viên (Quản Trị Viên)."
+"It Looks Like You Typed a Url Incorrectly, or Were Attempting to Find Something You Ought Not Have Access to.",Có Vẻ Như Bạn Đã Gõ Một Url Không Chính Xác Hoặc Đang Cố Gắng Tìm Thứ Gì Đó Bạn Không Nên Có Quyền Truy Cập.
+"It's About the Money and It's Time to Cash in on Those Skills! This Game Is Set Up to Use a Banking System, So Waste No Time to Build Your Fortune and Buy What You Need to Win.","đó Là Về Tiền Và Đã Đến Lúc Phải Rút Tiền Về Những Kỹ Năng Đó! Trò Chơi Này Được Thiết Lập Để Sử Dụng Một Hệ Thống Ngân Hàng, Vì Vậy Lãng Phí Thời Gian Để Xây Dựng Tài Sản Của Bạn Và Mua Những Gì Bạn Cần Để Giành Chiến Thắng."
+Item Cost,Chi Phí Mặt Hàng
+Join Existing Team,Tham Gia Đội Hiện Có
+Known Ip Addresses,Địa Chỉ Ip Đã Biết
+Last Ping,Ping Cuối Cùng
+Learn,Học Hỏi
+Level,Cấp Độ
+Level Name,Tên Cấp Độ
+Level Number,Cấp Số
+Level to Put Lab in?,Cấp Để Đặt Lab?
+Level Unlocked,Cấp Độ Mở Khóa
+Limit Number of Players That Can Be on Any One Team,Giới Hạn Số Lượng Người Chơi Có Thể Ở Bất Kỳ Một Đội Nào
+"Limits the Number of Attempts to Capture a Flag. Once the Limit Is Reached, No Further Action Can Be Taken on That Flag.","Giới Hạn Số Lần Thử Chụp Flag. Khi Đạt Được Giới Hạn, Không Có Hành Động Nào Nữa Có Thể Được Thực Hiện Trên Flag Đó."
 Linux,Linux.
 Lock,Khoa
-Locked by,Bị khóa bởi.
-Login,Đăng nhập
-Login Password,Mật khẩu đăng nhập
-Logout,Đăng xuất
-MacOS,Hệ điều hành Mac
-Mainframe Console,Bảng điều khiển máy tính lớn
-Manage Black Market,Quản lý chợ đen
-Manage Categories,Quản lý Danh mục
-Managed,Quản lý
-Market Objects,Đối tượng thị trường.
-Max,Tối đa
-Max Flag Attempts,Số lần thử tối đa
-Max PasteBin Size,Kích cỡ tối đa của pastebin
-Max Team Size,Kích thước tối đa của đội
-Maximum Flag Attempts,flag cố gắng tối đa
-Maximum Penalty,Hình phạt tối đa
-Maximum Penalty is determined as,Hình phạt tối đa được xác định là
-Min user password length,Max chiều dài mật khẩu người dùng
-Minimum User Password Length,Độ dài mật khẩu người dùng tối thiểu
-Mission Progress,Tiến bộ nhiệm vụ
-Missions,Nhiệm vụ
-Modifies the way flag submission are made.,Sửa đổi cách gửi flag được thực hiện.
-Money,Tiền bạc
-money,tiền bạc
-Motto,Châm ngôn
-Multiple Choice,Nhiều lựa chọn
-Multiple Choice Flag,flag nhiều lựa chọn
-Must be unique,Phải là duy nhất
-MVP,MVP 
-MVP - List Top N Payers,MVP - Liệt kê những người trả tiền hàng đầu
-MVP List Top,Danh sách MVP hàng đầu
-MVP Scoreboard,Bảng điểm MVP
-MVP Scoreboard,Bảng điểm MVP
+Locked by,Bị Khóa Bởi.
+Login,Đăng Nhập
+Login Password,Mật Khẩu Đăng Nhập
+Logout,Đăng Xuất
+Macos,Hệ Điều Hành Mac
+Mainframe Console,Bảng Điều Khiển Máy Tính Lớn
+Manage Black Market,Quản Lý Chợ Đen
+Manage Categories,Quản Lý Danh Mục
+Managed,Quản Lý
+Market Objects,Đối Tượng Thị Trường.
+Max,Tối Đa
+Max Flag Attempts,Số Lần Thử Tối Đa
+Max Pastebin Size,Kích Cỡ Tối Đa Của Pastebin
+Max Team Size,Kích Thước Tối Đa Của Đội
+Maximum Flag Attempts,Flag Cố Gắng Tối Đa
+Maximum Penalty,Hình Phạt Tối Đa
+Maximum Penalty Is Determined as,Hình Phạt Tối Đa Được Xác Định Là
+Min User Password Length,Max Chiều Dài Mật Khẩu Người Dùng
+Minimum User Password Length,Độ Dài Mật Khẩu Người Dùng Tối Thiểu
+Mission Progress,Tiến Độ Nhiệm Vụ Của
+Missions,Nhiệm Vụ
+Modifies the Way Flag Submission Are Made.,Sửa Đổi Cách Gửi Flag Được Thực Hiện.
+Money,Tiền Bạc
+Money,Tiền Bạc
+Motto,Châm Ngôn
+Multiple Choice,Nhiều Lựa Chọn
+Multiple Choice Flag,Flag Nhiều Lựa Chọn
+Must Be Unique,Phải Là Duy Nhất
+Mvp,Mvp 
+Mvp - List Top N Payers,Mvp - Liệt Kê Những Người Trả Tiền Hàng Đầu
+Mvp List Top,Danh Sách Mvp Hàng Đầu
+Mvp Scoreboard,Bảng Điểm Mvp
+Mvp Scoreboard,Bảng Điểm Mvp
 Name,Tên
-Never,Không bao giờ
-New Bank Account Password,Mật khẩu tài khoản ngân hàng mới
-New Bank Password,Mật khẩu ngân hàng mới
-New lab,lab mới
-New Category,Thể loại mới
-New Corporation,Tổng công ty mới
-New Flag,flag mới
-New Game Level,Cấp độ trò chơi mới
-New IP Address,Địa chỉ IP mới
-New Password,mật khẩu mới
-New Team,Đội mới
-New Team Member,Thành viên nhóm mới
-New Team Name,Tên đội mới.
+Never,Không Bao Giờ
+New Bank Account Password,Mật Khẩu Tài Khoản Ngân Hàng Mới
+New Bank Password,Mật Khẩu Ngân Hàng Mới
+New Lab,Lab Mới
+New Category,Thể Loại Mới
+New Corporation,Tổng Công Ty Mới
+New Flag,Flag Mới
+New Game Level,Cấp Độ Trò Chơi Mới
+New Ip Address,Địa Chỉ Ip Mới
+New Password,Mật Khẩu Mới
+New Team,Đội Mới
+New Team Member,Thành Viên Nhóm Mới
+New Team Name,Tên Đội Mới.
 No,Không
-No Avatar,Không phải avatar.
-No labes,KHÔNG LABES.
-No labes in this corporation yet,Chưa có phòng nào trong tổ chức này
-No labes on this level yet,Chưa có LABES ở cấp độ này
-No Bribes in Progress,Không có hối lộ trong tiến trình
-No Completed Bribes,Không có hối lộ hoàn thành
-No flags captured yet.,Không có flag nào bị bắt.
-No flags on this lab yet,Không có flag trên lab này
-No further penalty thereafter.,Không có hình phạt nào sau đó.
-No Lock,Không khóa
-No name,Không có tên.
-No Pending Bribes,Không có hối lộ
-No sheep yet - check back later.,Không có cừu nào - kiểm tra lại sau.
-No Source Code For Sale at This Time,Không có mã nguồn để bán tại thời điểm này
-No Tokens in Database,Không có mã thông báo trong cơ sở dữ liệu
-No upgrades left.,Không còn nâng cấp còn lại.
-No Users,Không có người dùng
-None,Không có
+No Avatar,Không Phải Avatar.
+No Labes,Không Labes.
+No Labes in This Corporation Yet,Chưa Có Phòng Nào Trong Tổ Chức Này
+No Labes on This Level Yet,Chưa Có Labes Ở Cấp Độ Này
+No Bribes in Progress,Không Có Hối Lộ Trong Tiến Trình
+No Completed Bribes,Không Có Hối Lộ Hoàn Thành
+No Flags Captured Yet.,Không Có Flag Nào Bị Bắt.
+No Flags on This Lab Yet,Không Có Flag Trên Lab Này
+No Further Penalty Thereafter.,Không Có Hình Phạt Nào Sau Đó.
+No Lock,Không Khóa
+No Name,Không Có Tên.
+No Pending Bribes,Không Có Hối Lộ
+No Sheep Yet - Check Back Later.,Không Có Cừu Nào - Kiểm Tra Lại Sau.
+No Source Code for Sale at This Time,Không Có Mã Nguồn Để Bán Tại Thời Điểm Này
+No Tokens in Database,Không Có Mã Thông Báo Trong Cơ Sở Dữ Liệu
+No Upgrades Left.,Không Còn Nâng Cấp Còn Lại.
+No Users,Không Có Người Dùng
+None,Không Có
 Noob Alert,Noob Alert.
-"Not all options are accessible in the web configuration. For more, see","Không phải tất cả các tùy chọn đều có thể truy cập được trong cấu hình web. Để biết thêm, xem"
-Note,Ghi chú
-Note: Files or documents for the challenge can be placed in the Game Materials.,Lưu ý: Tệp hoặc tài liệu cho thử thách có thể được đặt trong các tài liệu trò chơi.
-Note: Files or documents for the challenge can be placed in the Game Materials.,Lưu ý: Tệp hoặc tài liệu cho thử thách có thể được đặt trong các tài liệu trò chơi.
-NOTE: Max attempts and penalties will not be applied in Single lab mode.,Lưu ý: Các nỗ lực và hình phạt tối đa sẽ không được áp dụng trong chế độ lab đơn.
-NOTE: This setting is ignored if the lab flag submission type is set to Single lab.,Lưu ý: Cài đặt này bị bỏ qua nếu loại gửi flag lab được đặt thành lab duy nhất.
-Notification Message,Thông báo thông báo
-Notifications,Thông báo.
-Number of Bots,Số lượng bot.
-Number of Flags,Số lượng flag
-Number of new Level,Số cấp độ mới
-of Flag Value,của giá trị flag
-of the flag's value. It will start on the,giá trị của flag. Nó sẽ bắt đầu trên
-Old Password,Mật khẩu cũ
-One submission lab for any flag. Compares attempts against all flags in the lab.,Một lab nộp cho bất kỳ flag. So sánh các nỗ lực chống lại tất cả các flag trong lab.
-only,chỉ có
-Optional,Không bắt buộc
-Or Choose Existing,Hoặc chọn hiện tại
-Outcome,Kết quả
-Outcome,Kết quả
-Password,Mật khẩu
-Password Cracked,Mật khẩu bị bẻ khóa
-Password Cracking Leaderboard,Mật khẩu bẻ khóa bảng xếp hạng
-Password Hash,Mật khẩu băm.
-Password Security,Mật khẩu bảo mật.
-Password Upgrade Cost,Nâng cấp mật khẩu
-Passwords Cracked,Mật khẩu bị bẻ khóa
-Paste Name,Dán tên.
-Paste Text Here,Dán văn bản tại đây
-PasteBin,Pasebin
-Pastebin Character Limit,Giới hạn ký tự Pastebin
-Pause Registration,Tạm dừng đăng ký
-Set Countdown,Đặt đếm ngược.
-Penalize the score by this percent of the flag value for each incorrect attempt (applied after dynamic scoring if enabled).,Hình phạt tỷ số bằng phần trăm giá trị flag này cho mỗi lần thử không chính xác (được áp dụng sau khi ghi điểm động nếu được bật).
-Pending,Chưa giải quyết
-Pending Bribes,Nang thang đang chờ xử lý
-per page,trên một trang
-Plain Text,Văn bản thô
-Play Story,Chơi câu chuyện
-player,người chơi
-Player,Người chơi
-Player Alias,Alias người chơi
-Player Arrested!,Người chơi bị bắt!
-Player Email,Email người chơi
-Player Name,Tên người chơi
-"Player's bank account passwords are also available, allowing you to crack each other's passwords and steal the money.","Mật khẩu tài khoản ngân hàng của người chơi cũng có sẵn, cho phép bạn bẻ khóa mật khẩu của nhau và đánh cắp tiền."
-Players,Cầu thủ
-Please do NOT enter your real bank account password.,Vui lòng không nhập mật khẩu tài khoản ngân hàng thực của bạn.
-points,điểm
+"Not All Options Are Accessible in the Web Configuration. For More, See","Không Phải Tất Cả Các Tùy Chọn Đều Có Thể Truy Cập Được Trong Cấu Hình Web. Để Biết Thêm, Xem"
+Note,Ghi Chú
+Note: Files or Documents for the Challenge Can Be Placed in the Game Materials.,Lưu Ý: Tệp Hoặc Tài Liệu Cho Thử Thách Có Thể Được Đặt Trong Các Tài Liệu Trò Chơi.
+Note: Files or Documents for the Challenge Can Be Placed in the Game Materials.,Lưu Ý: Tệp Hoặc Tài Liệu Cho Thử Thách Có Thể Được Đặt Trong Các Tài Liệu Trò Chơi.
+Note: Max Attempts and Penalties Will Not Be Applied in Single Lab Mode.,Lưu Ý: Các Nỗ Lực Và Hình Phạt Tối Đa Sẽ Không Được Áp Dụng Trong Chế Độ Lab Đơn.
+Note: This Setting Is Ignored if the Lab Flag Submission Type Is Set to Single Lab.,Lưu Ý: Cài Đặt Này Bị Bỏ Qua Nếu Loại Gửi Flag Lab Được Đặt Thành Lab Duy Nhất.
+Notification Message,Thông Báo Thông Báo
+Notifications,Thông Báo.
+Number of Bots,Số Lượng Bot.
+Number of Flags,Số Lượng Flag
+Number of New Level,Số Cấp Độ Mới
+Of Flag Value,Của Giá Trị Flag
+Of the Flag's Value. It Will Start on the,Giá Trị Của Flag. Nó Sẽ Bắt Đầu Trên
+Old Password,Mật Khẩu Cũ
+One Submission Lab for Any Flag. Compares Attempts Against All Flags in the Lab.,Một Lab Nộp Cho Bất Kỳ Flag. So Sánh Các Nỗ Lực Chống Lại Tất Cả Các Flag Trong Lab.
+Only,Chỉ Có
+Optional,Không Bắt Buộc
+Or Choose Existing,Hoặc Chọn Hiện Tại
+Outcome,Kết Quả
+Outcome,Kết Quả
+Password,Mật Khẩu
+Password Cracked,Mật Khẩu Bị Bẻ Khóa
+Password Cracking Leaderboard,Mật Khẩu Bẻ Khóa Bảng Xếp Hạng
+Password Hash,Mật Khẩu Băm.
+Password Security,Mật Khẩu Bảo Mật.
+Password Upgrade Cost,Nâng Cấp Mật Khẩu
+Passwords Cracked,Mật Khẩu Bị Bẻ Khóa
+Paste Name,Dán Tên.
+Paste Text Here,Dán Văn Bản Tại Đây
+Pastebin,Pasebin
+Pastebin Character Limit,Giới Hạn Ký Tự Pastebin
+Pause Registration,Tạm Dừng Đăng Ký
+Set Countdown,Đặt Đếm Ngược.
+Penalize the Score by This Percent of the Flag Value for Each Incorrect Attempt (Applied After Dynamic Scoring if Enabled).,Hình Phạt Tỷ Số Bằng Phần Trăm Giá Trị Flag Này Cho Mỗi Lần Thử Không Chính Xác (được Áp Dụng Sau Khi Ghi Điểm Động Nếu Được Bật).
+Pending,Chưa Giải Quyết
+Pending Bribes,Nang Thang Đang Chờ Xử Lý
+Per Page,Trên Một Trang
+Plain Text,Văn Bản Thô
+Play Story,Chơi Câu Chuyện
+Player,Người Chơi
+Player,Người Chơi
+Player Alias,Alias Người Chơi
+Player Arrested!,Người Chơi Bị Bắt!
+Player Email,Email Người Chơi
+Player Name,Tên Người Chơi
+"Player's Bank Account Passwords Are Also Available, Allowing You to Crack Each Other's Passwords and Steal the Money.","Mật Khẩu Tài Khoản Ngân Hàng Của Người Chơi Cũng Có Sẵn, Cho Phép Bạn Bẻ Khóa Mật Khẩu Của Nhau Và Đánh Cắp Tiền."
+Players,Cầu Thủ
+Please Do Not Enter Your Real Bank Account Password.,Vui Lòng Không Nhập Mật Khẩu Tài Khoản Ngân Hàng Thực Của Bạn.
 Points,Điểm
-points,điểm
-Previous Bribes,Hối lộ trước đó
+Points,Điểm
+Points,Điểm
+Previous Bribes,Hối Lộ Trước Đó
 Price,Giá
-Privacy Policy,Chính sách bảo mật
-Private,Riêng tư
-Programming,Lập trình.
-Provide the code used to join an existing team. Visible to other team members on their home page.,Cung cấp mã được sử dụng để tham gia một nhóm hiện có. Hiển thị cho các thành viên trong nhóm khác trên trang chủ của họ.
-Public,Công cộng
-Public Team Creation,Sáng tạo đội công cộng
-Public Teams,Đội công cộng
-Purchase,Mua hàng
-Purchase Unlock,Mua mở khóa
+Privacy Policy,Chính Sách Bảo Mật
+Private,Riêng Tư
+Programming,Lập Trình.
+Provide the Code Used to Join an Existing Team. Visible to Other Team Members on Their Home Page.,Cung Cấp Mã Được Sử Dụng Để Tham Gia Một Nhóm Hiện Có. Hiển Thị Cho Các Thành Viên Trong Nhóm Khác Trên Trang Chủ Của Họ.
+Public,Công Cộng
+Public Team Creation,Sáng Tạo Đội Công Cộng
+Public Teams,Đội Công Cộng
+Purchase,Mua Hàng
+Purchase Unlock,Mua Mở Khóa
 Purchased,Mua
-Rank By,Xếp hạng bởi
-Regex Flag,flag regex
-Regex Pattern,Mô hình regex.
-Register Account,đăng ký tài khoản
-Registration,Đăng ký
-Registration Email,Email đăng ký
-Registration Tokens,Token đăng ký
-Regular Expression,Biểu hiện thông thường
+Rank by,Xếp Hạng Bởi
+Regex Flag,Flag Regex
+Regex Pattern,Mô Hình Regex.
+Register Account,Đăng Ký Tài Khoản
+Registration,Đăng Ký
+Registration Email,Email Đăng Ký
+Registration Tokens,Token Đăng Ký
+Regular Expression,Biểu Hiện Thông Thường
 Remove,Tẩy
-Require Email,Yêu cầu email
-Reset Actions,Thiết lập lại hành động
-Reset Game,Đặt lại trò chơi
-Reset Game,Đặt lại trò chơi
-Reset player / team starting points / money,Đặt lại điểm / điểm bắt đầu của nhóm / tiền
-Restrict players bank password to this length,Hạn chế mật khẩu ngân hàng người chơi đến độ dài này
-Restrict players user password to this length,Hạn chế người chơi mật khẩu người dùng đến độ dài này
-Resume Registration,Đăng ký tiếp tục
-Resume Scoreboard,Tiếp tục điểm
-Return to Edit,Quay trở lại chỉnh sửa
-Return to Missions,Quay trở lại nhiệm vụ
-Reward,Giải thưởng
-Role,Vai diễn
-Rules of Engagement: Do not attack the game scoreboard platform. Do not change the passwords of existing accounts in the network unless specified by a game objective.,Quy tắc tham gia: Không tấn công nền tảng bảng điểm trò chơi. Không thay đổi mật khẩu của các tài khoản hiện có trong mạng trừ khi được chỉ định bởi một mục tiêu trò chơi.
-S.W.A.T,S.w.a.t.
-Save,Cứu
-Score,Ghi bàn
-Scoreboard,Bảng điểm
-Scoreboard Rank By,Bảng điểm Xếp hạng bởi
-Scoreboard Visibility,Tầm nhìn bảng điểm
-Security Breach,Vi phạm an ninh
-See All,Xem tất cả
-Select a Theme,Chọn một chủ đề
+Require Email,Yêu Cầu Email
+Reset Actions,Thiết Lập Lại Hành Động
+Reset Game,Đặt Lại Trò Chơi
+Reset Game,Đặt Lại Trò Chơi
+Reset Player / Team Starting Points / Money,Đặt Lại Điểm / Điểm Bắt Đầu Của Nhóm / Tiền
+Restrict Players Bank Password to This Length,Hạn Chế Mật Khẩu Ngân Hàng Người Chơi Đến Độ Dài Này
+Restrict Players User Password to This Length,Hạn Chế Người Chơi Mật Khẩu Người Dùng Đến Độ Dài Này
+Resume Registration,Đăng Ký Tiếp Tục
+Resume Scoreboard,Tiếp Tục Điểm
+Return to Edit,Quay Trở Lại Chỉnh Sửa
+Return to Missions,Quay Trở Lại Nhiệm Vụ
+Reward,Giải Thưởng
+Role,Vai Diễn
+Rules of Engagement: Do Not Attack the Game Scoreboard Platform. Do Not Change the Passwords of Existing Accounts in the Network Unless Specified by a Game Objective.,Quy Tắc Tham Gia: Không Tấn Công Nền Tảng Bảng Điểm Trò Chơi. Không Thay Đổi Mật Khẩu Của Các Tài Khoản Hiện Có Trong Mạng Trừ Khi Được Chỉ Định Bởi Một Mục Tiêu Trò Chơi.
+S.w.a.t,S.w.a.t.
+Save,Lưu
+Score,Điểm Số
+Scoreboard,Bảng Điểm
+Scoreboard Rank by,Bảng Điểm Xếp Hạng Bởi
+Scoreboard Visibility,Tầm Nhìn Bảng Điểm
+Security Breach,Vi Phạm an Ninh
+See All,Xem Tất Cả
+Select a Theme,Chọn Một Chủ Đề
 Select Avatar,Chọn Avatar.
-Select New Avatar,Chọn Avatar mới
+Select New Avatar,Chọn Avatar Mới
 Send,Gửi
-Send a global notification to all players,Gửi thông báo toàn cầu cho tất cả người chơi
-Set Countdown Timer,Đặt Timer đếm ngược
-Set the game countdown timer,Đặt bộ đếm thời gian đếm ngược trò chơi
-Settings,Cài đặt
-Share your team code to allow other players to join,Chia sẻ mã nhóm của bạn để cho phép người chơi khác tham gia
-Shared Files,Những tệp đã chia sẻ
-Sheep,Con cừu
-Show MVP,Hiển thị MVP.
-Since Score,Kể từ điểm số
-Single lab,lab đơn
-Skill Progress,Tiến độ kỹ năng
-Source Code,Mã nguồn
-Source Code Archive,Lưu trữ mã nguồn.
-Source Code Market,Mã nguồn thị trường
-Special Thanks,Cảm tạ
-Start a New Team,Bắt đầu một đội mới
-Start the Game,Bắt đầu trò chơi
-start with 0 points,Bắt đầu với 0 điểm
-Starting Money,Bắt đầu tiền
-Static Flag,flag tĩnh
-Static Token,Flag tĩnh.
-Statistics,Số liệu thống kê
-stop on & after,dừng lại và sau
-Stop the Game,Dừng trò chơi
-Stop the game after timer ends,Dừng trò chơi sau khi kết thúc bộ hẹn giờ
-Story,Câu chuyện
-Story Mode,Chế độ câu chuyện
+Send a Global Notification to All Players,Gửi Thông Báo toàn Cầu Cho Tất Cả Người Chơi
+Set Countdown Timer,Đặt Timer Đếm Ngược
+Set the Game Countdown Timer,Đặt Bộ Đếm Thời Gian Đếm Ngược Trò Chơi
+Settings,Cài Đặt
+Share Your Team Code to Allow Other Players to Join,Chia Sẻ Mã Nhóm Của Bạn Để Cho Phép Người Chơi Khác Tham Gia
+Shared Files,Những Tệp Đã Chia Sẻ
+Sheep,Con Cừu
+Show Mvp,Hiển Thị Mvp.
+Since Score,Kể Từ Điểm Số
+Single Lab,Lab Đơn
+Skill Progress,Tiến Độ Kỹ Năng Của
+Source Code,Mã Nguồn
+Source Code Archive,Lưu Trữ Mã Nguồn.
+Source Code Market,Mã Nguồn Thị Trường
+Special Thanks,Cảm Tạ
+Start a New Team,Bắt Đầu Một Đội Mới
+Start the Game,Bắt Đầu Trò Chơi
+Start With 0 Points,Bắt Đầu Với 0 Điểm
+Starting Money,Bắt Đầu Tiền
+Static Flag,Flag Tĩnh
+Static Token,Flag Tĩnh.
+Statistics,Số Liệu Thống Kê
+Stop on & After,Dừng Lại Và Sau
+Stop the Game,Dừng Trò Chơi
+Stop the Game After Timer Ends,Dừng Trò Chơi Sau Khi Kết Thúc Bộ Hẹn Giờ
+Story,Câu Chuyện
+Story Mode,Chế Độ Câu Chuyện
 Submit,Nộp
-Submit a Bug,Gửi một lỗi
-Submit a Flag,Nộp flag
-Submit Bribe,Gửi hối lộ.
-Submit Bribes,Gửi hối lộ
-Submit Flag,Gửi flag
-SUCCESS,THÀNH CÔNG
-Success!,Thành công!
-Successful,Thành công
-Successful Captures,Ghi lại thành công
-Successful Registration,Đăng kí thành công
-Successfully created a new account for,Tạo thành công một tài khoản mới cho
-Summary,Bản tóm tắt
-Supports,Hỗ trợ
-Switch Level,Chuyển đổi cấp độ.
-System Type,Loại hệ thống
+Submit a Bug,Gửi Một Lỗi
+Submit a Flag,Nộp Flag
+Submit Bribe,Gửi Hối Lộ.
+Submit Bribes,Gửi Hối Lộ
+Submit Flag,Gửi Flag
+Success,Thành Công
+Success!,Thành Công!
+Successful,Thành Công
+Successful Captures,Ghi Lại Thành Công
+Successful Registration,Đăng Kí Thành Công
+Successfully Created a New Account for,Tạo Thành Công Một Tài Khoản Mới Cho
+Summary,Bản Tóm Tắt
+Supports,Hỗ Trợ
+Switch Level,Chuyển Đổi Cấp Độ.
+System Type,Loại Hệ Thống
 Take,Lấy
-Take Hint,Lấy gợi ý
+Take Hint,Lấy Gợi Ý
 Taken,Lấy
-Target,Mục tiêu
-Target Handle,Tay cầm mục tiêu
-Target Management,Quản lý mục tiêu
-team,đội
+Target,Mục Tiêu
+Target Handle,Tay Cầm Mục Tiêu
+Target Management,Quản Lý Mục Tiêu
 Team,Đội
-Team Avatar,Avatar của đội
-Team Code,Mã nhóm
-Team File Share,Chia sẻ tập tin nhóm
-Team Information,Thông tin về đội
-Team Motto,Châm ngôn của đội
-Team Name,Tên nhóm
-Team PasteBin,Pastebin
-Team Play,Đội chơi
-Team Shares,Chia sẻ nhóm
-Team Sharing,Chia sẻ nhóm
+Team,Đội
+Team Avatar,Avatar Của Đội
+Team Code,Mã Nhóm
+Team File Share,Chia Sẻ Tập Tin Nhóm
+Team Information,Thông Tin Về Đội
+Team Motto,Châm Ngôn Của Đội
+Team Name,Tên Nhóm
+Team Pastebin,Pastebin
+Team Play,Đội Chơi
+Team Shares,Chia Sẻ Nhóm
+Team Sharing,Chia Sẻ Nhóm
 Teams,Đội
-Test Flag,flag thử
-Text Share,Chia sẻ văn bản
-The black market is open and you know a guy. Download a target's source code or S.W.A.T. other players by bribing the (in-game) police.,Chợ đen đang mở và bạn biết một chàng trai. Tải xuống mã nguồn của mục tiêu hoặc s.w.a.t. Những người chơi khác bằng cách mua chuộc cảnh sát (trong trò chơi).
-The cost to take the hint. Can be >= 0.,Chi phí để có gợi ý. Có thể> = 0.
-The deduction is,Khấu trừ là.
-"The only other possibility is that I messed up some of the code, and that doesn't seem very likely.","Khả năng duy nhất khác là tôi đã nhắn tin cho một số mã, và điều đó dường như không thể rất nhiều."
-The starting money for a new,Tiền bắt đầu cho một cái mới
-Theme,Chủ đề
-There are currently no shared files.,Hiện tại không có tập tin chia sẻ.
-"These flags are files, users must submit the exact same file to capture the flag. Only a hash (SHA1) of the file is stored on the server.","Những flag này là các tệp, người dùng phải gửi cùng một tệp cùng để chụp flag. Chỉ một hàm băm (SHA1) của tệp được lưu trữ trên máy chủ."
-"This game is set up to use dynamic scoring based on speed, meaning as other players capture the flags, the future value of those flags will decrease. So grab them fast or lose out!","Trò chơi này được thiết lập để sử dụng điểm động dựa trên tốc độ, có nghĩa là những người chơi khác chụp flag, giá trị tương lai của những flag đó sẽ giảm. Vì vậy, lấy chúng nhanh hoặc mất!"
-"This game is set up to use dynamic scoring based on difficulty, meaning as other players capture the flags, the overall value of those flags will decrease and potentially reduce your score.","Trò chơi này được thiết lập để sử dụng điểm năng động dựa trên độ khó, có nghĩa là những người chơi khác bắt flag, giá trị tổng thể của các flag đó sẽ giảm và có khả năng giảm điểm của bạn."
-This is a test flag/string the user could input for credit.,Đây là một flag thử nghiệm / chuỗi người dùng có thể nhập tín dụng.
-This is the amount a player must pay to S.W.A.T. another players account. Subsequent SWATs of the same player are also increased by this amount each time.,Đây là số tiền một người chơi phải thanh toán cho s.w.a.t. một tài khoản người chơi khác. Các vòng tiếp theo của cùng một người chơi cũng được tăng lên bởi số tiền này mỗi lần.
-This is the amount a player must pay to upgrade their bank passwords hashing algorithm,Đây là số tiền mà người chơi phải thanh toán để nâng cấp thuật toán băm mật khẩu ngân hàng của họ
-This is the amount awarded for capturing the flag.,Đây là số tiền được trao cho việc chụp flag.
-This is the amount awarded for completion of the lab.,Đây là số tiền được trao để hoàn thành lab.
-This is the amount of money a team is paid per-bot on every interval. The interval must be set in the .cfg file manually,Đây là số tiền mà một nhóm được trả cho mỗi bot trên mọi khoảng thời gian. Khoảng thời gian phải được đặt trong tệp .cfg theo cách thủ công
-This is the lab the flag is located on.,Đây là lab flag được đặt trên.
-This is the description,Đây là mô tả
-This is the maximum number of players displayed on the MVP list (default 10) with a score > 0.,Đây là số lượng người chơi tối đa được hiển thị trên danh sách MVP (mặc định 10) với điểm> 0.
-This is the message displayed to the user once the lab is completed.,Đây là thông báo được hiển thị cho người dùng sau khi lab hoàn tất.
-This is the message displayed to the user once the flag is captured.,Đây là thông báo được hiển thị cho người dùng sau khi flag được chụp.
-This is the name that will appear in the upper left corner,Đây là tên sẽ xuất hiện ở góc trên bên trái
-This is the the limit of characters allowed for a pastebin post.,Đây là giới hạn của các ký tự được phép cho một Pastebin Post.
-This is what you want the flag to be displayed as. Leave blank to be named automatically by order #.,Đây là những gì bạn muốn flag được hiển thị như. Để trống để được đặt tên tự động theo thứ tự #.
-This selection determines the method by which dynamic scoring is applied.,Lựa chọn này xác định phương thức mà điểm số động được áp dụng.
-This selection determines the method by which the scoreboard is primarily ranked.,Lựa chọn này xác định phương thức mà bảng điểm chủ yếu được xếp hạng.
-This selection determines the visibility of the scoreboard menu and pages.,Lựa chọn này xác định khả năng hiển thị của menu và trang của bảng điểm.
-"This will also delete associated IP addresses, labes, and flags.","Điều này cũng sẽ xóa các địa chỉ IP liên quan, LABES và flag."
-"This will also delete associated IP addresses, hints, and flags.","Điều này cũng sẽ xóa các địa chỉ IP liên quan, gợi ý và flag."
-This will also delete labes and flags associated with this level.,Điều này cũng sẽ xóa các LABES và CLAGS được liên kết với cấp độ này.
-This will delete the player and the associated user account!,Điều này sẽ xóa trình phát và tài khoản người dùng được liên kết!
-This will delete the team and any associated user accounts!,Điều này sẽ xóa nhóm và bất kỳ tài khoản người dùng liên kết!
+Test Flag,Flag Thử
+Text Share,Chia Sẻ Văn Bản
+The Black Market Is Open and You Know a Guy. Download a Target's Source Code or S.w.a.t. Other Players by Bribing the (in-game) Police.,Chợ Đen Đang Mở Và Bạn Biết Một Chàng Trai. Tải Xuống Mã Nguồn Của Mục Tiêu Hoặc S.w.a.t. Những Người Chơi Khác Bằng Cách Mua Chuộc Cảnh Sát (Trong Trò Chơi).
+The Cost to Take the Hint. Can Be >= 0.,Chi Phí Để Có Gợi Ý. Có Thể> = 0.
+The Deduction Is,Khấu Trừ Là.
+"the Only Other Possibility Is That I Messed Up Some of the Code, and That Doesn't Seem Very Likely.","Khả Năng Duy Nhất Khác Là Tôi Đã Nhắn Tin Cho Một Số Mã, Và Điều Đó Dường Như Không Thể Rất Nhiều."
+The Starting Money for a New,Tiền Bắt Đầu Cho Một Cái Mới
+Theme,Chủ Đề
+There Are Currently No Shared Files.,Hiện Tại Không Có Tập Tin Chia Sẻ.
+"These Flags Are Files, Users Must Submit the Exact Same File to Capture the Flag. Only a Hash (Sha1) of the File Is Stored on the Server.","Những Flag Này Là Các Tệp, Người Dùng Phải Gửi Cùng Một Tệp Cùng Để Chụp Flag. Chỉ Một Hàm Băm (Sha1) Của Tệp Được Lưu Trữ Trên Máy Chủ."
+"This Game Is Set Up to Use Dynamic Scoring Based on Speed, Meaning as Other Players Capture the Flags, the Future Value of Those Flags Will Decrease. So Grab Them Fast or Lose Out!","Trò Chơi Này Được Thiết Lập Để Sử Dụng Điểm Động Dựa Trên Tốc Độ, Có Nghĩa Là Những Người Chơi Khác Chụp Flag, Giá Trị Tương Lai Của Những Flag Đó Sẽ Giảm. Vì Vậy, Lấy Chúng Nhanh Hoặc Mất!"
+"This Game Is Set Up to Use Dynamic Scoring Based on Difficulty, Meaning as Other Players Capture the Flags, the Overall Value of Those Flags Will Decrease and Potentially Reduce Your Score.","Trò Chơi Này Được Thiết Lập Để Sử Dụng Điểm Năng Động Dựa Trên Độ Khó, Có Nghĩa Là Những Người Chơi Khác Bắt Flag, Giá Trị Tổng Thể Của Các Flag Đó Sẽ Giảm Và Có Khả Năng Giảm Điểm Của Bạn."
+This Is a Test Flag/string the User Could Input for Credit.,Đây Là Một Flag Thử Nghiệm / Chuỗi Người Dùng Có Thể Nhập Tín Dụng.
+This Is the Amount a Player Must Pay to S.w.a.t. Another Players Account. Subsequent Swats of the Same Player Are Also Increased by This Amount Each Time.,Đây Là Số Tiền Một Người Chơi Phải Thanh toán Cho S.w.a.t. Một Tài Khoản Người Chơi Khác. Các Vòng Tiếp Theo Của Cùng Một Người Chơi Cũng Được Tăng Lên Bởi Số Tiền Này Mỗi Lần.
+This Is the Amount a Player Must Pay to Upgrade Their Bank Passwords Hashing Algorithm,Đây Là Số Tiền Mà Người Chơi Phải Thanh toán Để Nâng Cấp Thuật toán Băm Mật Khẩu Ngân Hàng Của Họ
+This Is the Amount Awarded for Capturing the Flag.,Đây Là Số Tiền Được Trao Cho Việc Chụp Flag.
+This Is the Amount Awarded for Completion of the Lab.,Đây Là Số Tiền Được Trao Để Hoàn Thành Lab.
+This Is the Amount of Money a Team Is Paid Per-bot on Every Interval. The Interval Must Be Set in the .cfg File Manually,Đây Là Số Tiền Mà Một Nhóm Được Trả Cho Mỗi Bot Trên Mọi Khoảng Thời Gian. Khoảng Thời Gian Phải Được Đặt Trong Tệp .cfg Theo Cách Thủ Công
+This Is the Lab the Flag Is Located on.,Đây Là Lab Flag Được Đặt Trên.
+This Is the Description,Đây Là Mô Tả
+This Is the Maximum Number of Players Displayed on the Mvp List (Default 10) With a Score > 0.,Đây Là Số Lượng Người Chơi Tối Đa Được Hiển Thị Trên Danh Sách Mvp (Mặc Định 10) Với Điểm> 0.
+This Is the Message Displayed to the User Once the Lab Is Completed.,Đây Là Thông Báo Được Hiển Thị Cho Người Dùng Sau Khi Lab Hoàn Tất.
+This Is the Message Displayed to the User Once the Flag Is Captured.,Đây Là Thông Báo Được Hiển Thị Cho Người Dùng Sau Khi Flag Được Chụp.
+This Is the Name That Will Appear in the Upper Left Corner,Đây Là Tên Sẽ Xuất Hiện Ở Góc Trên Bên Trái
+This Is the the Limit of Characters Allowed for a Pastebin Post.,Đây Là Giới Hạn Của Các Ký Tự Được Phép Cho Một Pastebin Post.
+This Is What You Want the Flag to Be Displayed as. Leave Blank to Be Named Automatically by Order #.,Đây Là Những Gì Bạn Muốn Flag Được Hiển Thị Như. Để Trống Để Được Đặt Tên Tự Động Theo Thứ Tự #.
+This Selection Determines the Method by Which Dynamic Scoring Is Applied.,Lựa Chọn Này Xác Định Phương Thức Mà Điểm Số Động Được Áp Dụng.
+This Selection Determines the Method by Which the Scoreboard Is Primarily Ranked.,Lựa Chọn Này Xác Định Phương Thức Mà Bảng Điểm Chủ Yếu Được Xếp Hạng.
+This Selection Determines the Visibility of the Scoreboard Menu and Pages.,Lựa Chọn Này Xác Định Khả Năng Hiển Thị Của Menu Và Trang Của Bảng Điểm.
+"This Will Also Delete Associated Ip Addresses, Labes, and Flags.","điều Này Cũng Sẽ Xóa Các Địa Chỉ Ip Liên Quan, Labes Và Flag."
+"This Will Also Delete Associated Ip Addresses, Hints, and Flags.","điều Này Cũng Sẽ Xóa Các Địa Chỉ Ip Liên Quan, Gợi Ý Và Flag."
+This Will Also Delete Labes and Flags Associated With This Level.,Điều Này Cũng Sẽ Xóa Các Labes Và Clags Được Liên Kết Với Cấp Độ Này.
+This Will Delete the Player and the Associated User Account!,Điều Này Sẽ Xóa Trình Phát Và Tài Khoản Người Dùng Được Liên Kết!
+This Will Delete the Team and Any Associated User Accounts!,Điều Này Sẽ Xóa Nhóm Và Bất Kỳ Tài Khoản Người Dùng Liên Kết!
 Threshold,Ngưỡng.
-Time,Thời gian
-"Time to create a botnet. By uploading a small bot program to target machines, you can be periodically rewarded for each bot in your botnet; the larger the botnet the larger the reward.","Thời gian để tạo một botnet. Bằng cách tải lên một chương trình bot nhỏ vào các máy mục tiêu, bạn có thể được thưởng định kỳ cho mỗi bot trong botnet của bạn; Botnet càng lớn thì phần thưởng càng lớn."
-to Add,thêm vào
-to Add or Subtract,để thêm hoặc trừ
-"To restore this RTB instance, you may also need the contents under the files directory, to include the rootthelab.cfg.","Để khôi phục phiên bản RTB này, bạn cũng có thể cần nội dung trong thư mục tệp, để bao gồm rootthelab.cfg."
+Time,Thời Gian
+"Time to Create a Botnet. By Uploading a Small Bot Program to Target Machines, You Can Be Periodically Rewarded for Each Bot in Your Botnet; the Larger the Botnet the Larger the Reward.","Thời Gian Để Tạo Một Botnet. Bằng Cách Tải Lên Một Chương Trình Bot Nhỏ Vào Các Máy Mục Tiêu, Bạn Có Thể Được Thưởng Định Kỳ Cho Mỗi Bot Trong Botnet Của Bạn; Botnet Càng Lớn Thì Phần Thưởng Càng Lớn."
+To Add,Thêm Vào
+To Add or Subtract,Để Thêm Hoặc Trừ
+"to Restore This Rtb Instance, You May Also Need the Contents Under the Files Directory, to Include the Rootthelab.cfg.","để Khôi Phục Phiên Bản Rtb Này, Bạn Cũng Có Thể Cần Nội Dung Trong Thư Mục Tệp, Để Bao Gồm Rootthelab.cfg."
 Token,Flag
-Token Value,Giá trị mã thông báo
-Tools,Công cụ
-Tools & Upgrades,Công cụ & nâng cấp.
-Total Cash Stolen,Tổng tiền mặt bị đánh cắp
+Token Value,Giá Trị Mã Thông Báo
+Tools,Công Cụ
+Tools & Upgrades,Công Cụ & Nâng Cấp.
+Total Cash Stolen,Tổng Tiền Mặt Bị Đánh Cắp
 Type,Loại
-Unknown,không xác định
-Unlock,Mở khóa
-Unlock Cost,Chi phí mở khóa
-Unlock Level,Mở khóa cấp độ
-Unlocks,Mở khóa
-Unlocks after,Mở khóa sau
-Unlocks for,Mở khóa cho
-Unlocks at,Mở khóa tại
-Update Bank Password,Cập nhật mật khẩu ngân hàng
-Update Configuration,Cập nhật cấu hình
-Update Password,Cập nhật mật khẩu
-Update RootThelab,Cập nhật Rootthelab.
-Upgrade Purchased,Nâng cấp mua
-Upgrade to,Nâng cấp lên.
-Upload,Tải lên
-Upload Avatar,Tải lên avatar
-Upload Avatar File,Tải tệp Avatar tải lên.
-Upload Files,Tải tệp lên
-Used,Được sử dụng
-Used to secure your (in-game) bank account.,Được sử dụng để bảo mật tài khoản ngân hàng (trong trò chơi) của bạn.
-User Handle,Tài khoản người dùng
-User Management,Quản lý người dùng
-Users / Teams,Người dùng / đội
-Value,Giá trị
-View,Quang cảnh
-View lab,Xem lab
-View Details,Xem chi tiết
-Visible,Có thể nhìn thấy
-Visible to Players,Hiển thị cho người chơi
-Waiting for the game to start,Chờ đợi trò chơi bắt đầu
-Wall of Sheep,Tường cừu.
-WARNING,CẢNH BÁO
-Welcome,Chào mừng
-Welcome to the computer war game where security professionals can practice and learn.,Chào mừng bạn đến với trò chơi chiến tranh máy tính nơi các chuyên gia bảo mật có thể thực hành và học hỏi.
-Welcome to the Scene,Chào mừng đến với cảnh
-What is the name of this lab?,Tên của lab này là gì?
-"What is your Corporation Name? If you do not plan to use Corporations, just create one with no name.","Tên công ty của bạn là gì? Nếu bạn không có kế hoạch sử dụng các tổ chức, chỉ cần tạo một tập tin mà không có tên."
-What is your motto?,Phương châm của bạn là gì?
-What is your teams motto?,Motto đội của bạn là gì?
-What type of system is this?,Đây là loại hệ thống nào?
-Whats the difficulty of the lab?,Những khó khăn của lab là gì?
-When banking is disabled,Khi ngân hàng bị vô hiệu hóa
-"When to start applying the penalty. For example, you may want the first incorrect attempt to be free, but penalize subsequent attempts.","Khi nào bắt đầu áp dụng hình phạt. Ví dụ: bạn có thể muốn nỗ lực không chính xác đầu tiên miễn phí, nhưng xử phạt các lần thử tiếp theo."
-"When to stop applying the penalty. For example, you may want to only penalize a certain total of the flags value and allow any further attempts to be free, thus allowing all flags to have some value.","Khi nào nên ngừng áp dụng hình phạt. Ví dụ: bạn có thể chỉ muốn phạt tổng giá trị flag nhất định và cho phép bất kỳ nỗ lực nào khác để được tự do, do đó cho phép tất cả các flag có một số giá trị."
-when using banking.,khi sử dụng ngân hàng.
-Windows,các cửa sổ
-With contributions from,Với sự đóng góp từ
-XML File,Tệp XML
+Unknown,Không Xác Định
+Unlock,Mở Khóa
+Unlock Cost,Chi Phí Mở Khóa
+Unlock Level,Mở Khóa Cấp Độ
+Unlocks,Mở Khóa
+Unlocks After,Mở Khóa Sau
+Unlocks for,Mở Khóa Cho
+Unlocks at,Mở Khóa Tại
+Update Bank Password,Cập Nhật Mật Khẩu Ngân Hàng
+Update Configuration,Cập Nhật Cấu Hình
+Update Password,Cập Nhật Mật Khẩu
+Update Rootthelab,Cập Nhật Rootthelab.
+Upgrade Purchased,Nâng Cấp Mua
+Upgrade to,Nâng Cấp Lên.
+Upload,Tải Lên
+Upload Avatar,Tải Lên Avatar
+Upload Avatar File,Tải Tệp Avatar Tải Lên.
+Upload Files,Tải Tệp Lên
+Used,Được Sử Dụng
+Used to Secure Your (in-game) Bank Account.,Được Sử Dụng Để Bảo Mật Tài Khoản Ngân Hàng (Trong Trò Chơi) Của Bạn.
+User Handle,Tài Khoản Người Dùng
+User Management,Quản Lý Người Dùng
+Users / Teams,Người Dùng / Đội
+Value,Giá Trị
+View,Quang Cảnh
+View Lab,Xem Lab
+View Details,Xem Chi Tiết
+Visible,Có Thể Nhìn Thấy
+Visible to Players,Hiển Thị Cho Người Chơi
+Waiting for the Game to Start,Chờ Đợi Trò Chơi Bắt Đầu
+Wall of Sheep,Tường Cừu.
+Warning,Cảnh Báo
+Welcome,Chào Mừng
+Welcome to the Computer War Game Where Security Professionals Can Practice and Learn.,Các Bài Lab Phục Vụ Nghiên Cứu Và Khai Thác Java Web Application.
+Welcome to the Scene,Chào Mừng Đến Với Cảnh
+What Is the Name of This Lab?,Tên Của Lab Này Là Gì?
+"What Is Your Corporation Name? If You Do Not Plan to Use Corporations, Just Create One With No Name.","Tên Công Ty Của Bạn Là Gì? Nếu Bạn Không Có Kế Hoạch Sử Dụng Các Tổ Chức, Chỉ Cần Tạo Một Tập Tin Mà Không Có Tên."
+What Is Your Motto?,Phương Châm Của Bạn Là Gì?
+What Is Your Teams Motto?,Motto Đội Của Bạn Là Gì?
+What Type of System Is This?,Đây Là Loại Hệ Thống Nào?
+Whats the Difficulty of the Lab?,Những Khó Khăn Của Lab Là Gì?
+When Banking Is Disabled,Khi Ngân Hàng Bị Vô Hiệu Hóa
+"When to Start Applying the Penalty. For Example, You May Want the First Incorrect Attempt to Be Free, but Penalize Subsequent Attempts.","Khi Nào Bắt Đầu Áp Dụng Hình Phạt. Ví Dụ: Bạn Có Thể Muốn Nỗ Lực Không Chính Xác Đầu Tiên Miễn Phí, Nhưng Xử Phạt Các Lần Thử Tiếp Theo."
+"When to Stop Applying the Penalty. For Example, You May Want to Only Penalize a Certain Total of the Flags Value and Allow Any Further Attempts to Be Free, Thus Allowing All Flags to Have Some Value.","Khi Nào Nên Ngừng Áp Dụng Hình Phạt. Ví Dụ: Bạn Có Thể Chỉ Muốn Phạt Tổng Giá Trị Flag Nhất Định Và Cho Phép Bất Kỳ Nỗ Lực Nào Khác Để Được Tự Do, Do Đó Cho Phép Tất Cả Các Flag Có Một Số Giá Trị."
+When Using Banking.,Khi Sử Dụng Ngân Hàng.
+Windows,Các Cửa Sổ
+With Contributions From,Với Sự Đóng Góp Từ
+Xml File,Tệp Xml
 Yes,Đúng
-You are not on a team,Bạn không có trong một đội
-You do not have access to this level yet.,Bạn chưa có quyền truy cập vào cấp độ này.
-You do not own this upgrade.,Bạn không sở hữu bản nâng cấp này.
-You have not submitted any bribes yet.,Bạn chưa nộp bất kỳ hối lộ nào.
-"Your email, visible to game administrators.","Email của bạn, có thể nhìn thấy để quản trị viên trò chơi."
-"Your handle must be 3-16 alpha-numeric characters. Underscore, dash, and dots allowed.","Tay cầm của bạn phải là 3-16 ký tự chữ cái. Undercore, dash và chấm cho phép."
-"Your name, visible to game administrators. Your name can be 3-64 alpha-numeric characters","Tên của bạn, hiển thị để quản trị viên trò chơi. Tên của bạn có thể là 3-64 ký tự chữ số"
-Password Reset,Đặt lại mật khẩu
-Forgot Password,Quên mật khẩu
-Request Password Reset,Yêu cầu đặt lại mật khẩu
-Update Email,Cập nhật email
-Please check your email for account validation,Vui lòng kiểm tra email của bạn để xác thực tài khoản
-Validate Email,Xác thực thư điện tử
-"Enabling this feature will require validation of email before the user can access the game. If this option is disabled, email will not be verified.","Kích hoạt tính năng này sẽ yêu cầu xác nhận email trước khi người dùng có thể truy cập trò chơi. Nếu tùy chọn này bị vô hiệu hóa, email sẽ không được xác minh."
-Note: Mail settings must be defined.,Lưu ý: Cài đặt thư phải được xác định.
-Validation,Thẩm định
+You Are Not on a Team,Bạn Không Có Trong Một Đội
+You Do Not Have Access to This Level Yet.,Bạn Chưa Có Quyền Truy Cập Vào Cấp Độ Này.
+You Do Not Own This Upgrade.,Bạn Không Sở Hữu Bản Nâng Cấp Này.
+You Have Not Submitted Any Bribes Yet.,Bạn Chưa Nộp Bất Kỳ Hối Lộ Nào.
+"Your Email, Visible to Game Administrators.","Email Của Bạn, Có Thể Nhìn Thấy Để Quản Trị Viên Trò Chơi."
+"Your Handle Must Be 3-16 Alpha-numeric Characters. Underscore, Dash, and Dots Allowed.","Tay Cầm Của Bạn Phải Là 3-16 Ký Tự Chữ Cái. Undercore, Dash Và Chấm Cho Phép."
+"Your Name, Visible to Game Administrators. Your Name Can Be 3-64 Alpha-numeric Characters","Tên Của Bạn, Hiển Thị Để Quản Trị Viên Trò Chơi. Tên Của Bạn Có Thể Là 3-64 Ký Tự Chữ Số"
+Password Reset,Đặt Lại Mật Khẩu
+Forgot Password,Quên Mật Khẩu
+Request Password Reset,Yêu Cầu Đặt Lại Mật Khẩu
+Update Email,Cập Nhật Email
+Please Check Your Email for Account Validation,Vui Lòng Kiểm Tra Email Của Bạn Để Xác Thực Tài Khoản
+Validate Email,Xác Thực Thư Điện Tử
+"Enabling This Feature Will Require Validation of Email Before the User Can Access the Game. If This Option Is Disabled, Email Will Not Be Verified.","Kích Hoạt Tính Năng Này Sẽ Yêu Cầu Xác Nhận Email Trước Khi Người Dùng Có Thể Truy Cập Trò Chơi. Nếu Tùy Chọn Này Bị Vô Hiệu Hóa, Email Sẽ Không Được Xác Minh."
+Note: Mail Settings Must Be Defined.,Lưu Ý: Cài Đặt Thư Phải Được Xác Định.
+Validation,Thẩm Định
